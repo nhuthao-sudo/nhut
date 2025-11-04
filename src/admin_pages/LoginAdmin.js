@@ -22,12 +22,12 @@ function LoginAdmin(props) {
 
   return (
     <div >
-      <div className="container position-absolute top-50 start-50 translate-middle " id="bg-img">
+      <div className="container position-absolute top-50 start-50 translate-middle " id="">
       <div className="row  justify-content-center" id="canchinh">
         <div className="datgoldshop-main col-lg-6 col-md-6">
           <div className="row">
             <div className="col">
-              <h2 className="text-center">Administrator-DQC</h2>
+              <h2 className="text-center">Administrator</h2>
               <form action method="post" onSubmit={handleSubmit}>
                 <Input
                   id="ten_dn"

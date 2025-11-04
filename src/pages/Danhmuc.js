@@ -3,122 +3,122 @@ import { Link } from 'react-router-dom'
 
 const Danhmuc = () => {
   return (
-   <>
-               <div className="row mx-0 mt-5 pb-3 kategory">
-              <h5 className="p-4">DANH MỤC</h5>
-              <div className="d-flex">
-                <div className="d-flex flex-column align-items-center card-kategory">
-                  <Link className="wrap-img" to={"/producTTN"}>
-                    <img
-                      className="w-100 h-100"
-                      src="assets/thoitrangnam.png"
-                      alt=""
-                    />
-                  </Link>
-                  <span className="mb-0 flex-column mt-2">Thời Trang Nam</span>
-                </div>
-                <div className="d-flex flex-column align-items-center card-kategory">
-                  <Link className="wrap-img" to={"/producTTnu"}>
-                    <img
-                      className="w-100 h-100"
-                      src="assets/thoitrangnu.png"
-                      alt=""
-                    />
-                  </Link>
-                  <p className="mb-0 flex-column mt-2">Thời trang nữ</p>
-                </div>
-                <div className="d-flex flex-column align-items-center card-kategory">
-                  <Link className="wrap-img" to={"/dienthoai"}>
-                    <img
-                      className="w-100 h-100"
-                      src="assets/dienthoai.jpg"
-                      alt=""
-                    />
-                  </Link>
-                  <p className="mb-0 flex-column mt-2">Điện Thoại &amp;</p>
-                  <p className="mb-0 flex-column">Phụ Kiện</p>
-                </div>
-                <div className="d-flex flex-column align-items-center card-kategory">
-                  <Link className="wrap-img" to={"/thietbidien"}>
-                    <img
-                      className="w-100 h-100"
-                      src="assets/thietbidientu.jpg"
-                      alt=""
-                    />
-                  </Link>
-                  <p className="mb-0 flex-column mt-2">Thiết Bị Điện Tử </p>
-                </div>
+    <>
+      <div className="row mx-0 mt-5 pb-3 kategory">
+        <h5 className="p-4">DANH MỤC</h5>
+        <div className="d-flex">
+          <div className="d-flex flex-column align-items-center card-kategory">
+            <Link className="wrap-img" to={"/ti-vi"}>
+              <img
+                className="w-100 h-100"
+                src="assets/samsung.jpg"
+                alt=""
+              />
+            </Link>
+            <span className="mb-0 flex-column mt-2">SamSung</span>
+          </div>
+          <div className="d-flex flex-column align-items-center card-kategory">
+            <Link className="wrap-img" to={"/dien-thoai"}>
+              <img
+                className="w-100 h-100"
+                src="assets/iphone.jpg"
+                alt=""
+              />
+            </Link>
+            <p className="mb-0 flex-column mt-2">Iphone</p>
+          </div>
+          <div className="d-flex flex-column align-items-center card-kategory">
+            <Link className="wrap-img" to={"/bep-dien"}>
+              <img
+                className="w-100 h-100"
+                src="assets/Sony.jpg"
+                alt=""
+              />
+            </Link>
+            <p className="mb-0 flex-column mt-2">Sony</p>
+            {/* <p className="mb-0 flex-column">Phụ Kiện</p> */}
+          </div>
+          <div className="d-flex flex-column align-items-center card-kategory">
+            <Link className="wrap-img" to={"/lo-vi-song"}>
+              <img
+                className="w-100 h-100"
+                src="assets/Xiaomi.jpg"
+                alt=""
+              />
+            </Link>
+            <p className="mb-0 flex-column mt-2">Xiaomi</p>
+          </div>
 
-                <div className="d-flex flex-column align-items-center card-kategory">
-                  <Link className="wrap-img" to={"/mayanh"}>
-                    <img
-                      className="w-100 h-100"
-                      src="assets/mayanh.jpg"
-                      alt=""
-                    />
-                  </Link>
-                  <p className="mb-0 flex-column mt-2">Máy ảnh &amp; Máy Quay Phim</p>
-             
-                </div>
-                <div className="d-flex flex-column align-items-center card-kategory">
-                  <Link className="wrap-img" to={"/dongho"}>
-                    <img
-                      className="w-100 h-100"
-                      src="assets/dongho.jpg"
-                      alt=""
-                    />
-                  </Link>
-                  <p className="mb-0 flex-column mt-2">Đồng Hồ</p>
-                </div>
-                <div className="d-flex flex-column align-items-center card-kategory">
-                  <Link className="wrap-img" to={"/giaydep"}>
-                    <img
-                      className="w-100 h-100"
-                      src="assets/giaydepnam.jpg"
-                      alt=""
-                    />
-                  </Link>
-                  <p className="mb-0 flex-column mt-2">Giày Dép Nam</p>
-                </div>
-                <div className="d-flex flex-column align-items-center card-kategory">
-                  <Link className="wrap-img" to={"/thietbigiadung"}>
-                    <img
-                      className="w-100 h-100"
-                      src="assets/images/thietbigiadung.jpg"
-                      alt=""
-                    />
-                  </Link>
-                  <p className="mb-0 text-center mt-2">
-                    Thiết Bị Điện Gia Dụng
-                  </p>
-                </div>
-                <div className="d-flex flex-column align-items-center card-kategory">
-                  <Link className="wrap-img" to={"/thethao"}>
-                    <img
-                      className="w-100 h-100"
-                      src="assets/images/thethao.jpg"
-                      alt=""
-                    />
-                  </Link>
-                  <p className="mb-0 text-center mt-2">
-                    Thể Thao &amp; Du Lịch
-                  </p>
-                </div>
-                <div className="d-flex flex-column align-items-center card-kategory">
-                  <Link className="wrap-img" to={"/xemay"}>
-                    <img
-                      className="w-100 h-100"
-                      src="assets/images/xemay.jpg"
-                      alt=""
-                    />
-                  </Link>
-                  <p className="mb-0 text-center mt-2">
-                    Ô Tô &amp; Xe Máy &amp; Xe Đạp
-                  </p>
-                </div>
-              </div>
-            </div>
-   </>
+          <div className="d-flex flex-column align-items-center card-kategory">
+            <Link className="wrap-img" to={"/say-toc"}>
+              <img
+                className="w-100 h-100"
+                src="assets/honor.jpg"
+                alt=""
+              />
+            </Link>
+            <p className="mb-0 flex-column mt-2">Honor</p>
+
+          </div>
+          <div className="d-flex flex-column align-items-center card-kategory">
+            <Link className="wrap-img" to={"/camera"}>
+              <img
+                className="w-100 h-100"
+                src="assets/huawei.jpg"
+                alt=""
+              />
+            </Link>
+            <p className="mb-0 flex-column mt-2">Huawei</p>
+          </div>
+          <div className="d-flex flex-column align-items-center card-kategory">
+            <Link className="wrap-img" to={"/tu-lanh"}>
+              <img
+                className="w-100 h-100"
+                src="assets/asus.jpg"
+                alt=""
+              />
+            </Link>
+            <p className="mb-0 flex-column mt-2">Asus</p>
+          </div>
+          <div className="d-flex flex-column align-items-center card-kategory">
+            <Link className="wrap-img" to={"/may-lanh"}>
+              <img
+                className="w-100 h-100"
+                src="assets/oppo.jpg"
+                alt=""
+              />
+            </Link>
+            <p className="mb-0 text-center mt-2">
+              Oppo
+            </p>
+          </div>
+          <div className="d-flex flex-column align-items-center card-kategory">
+            <Link className="wrap-img" to={"/vatdung"}>
+              <img
+                className="w-100 h-100"
+                src="assets/realme.jpg"
+                alt=""
+              />
+            </Link>
+            <p className="mb-0 text-center mt-2">
+              Realme
+            </p>
+          </div>
+          <div className="d-flex flex-column align-items-center card-kategory">
+            <Link className="wrap-img" to={"/noi-com-dien"}>
+              <img
+                className="w-100 h-100"
+                src="assets/vivo.jpg"
+                alt=""
+              />
+            </Link>
+            <p className="mb-0 text-center mt-2">
+              Vivo
+            </p>
+          </div>
+        </div>
+      </div>
+    </>
   )
 }
 

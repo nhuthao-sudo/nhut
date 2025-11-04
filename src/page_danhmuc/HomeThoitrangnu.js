@@ -241,7 +241,7 @@ const StyledHeader = styled.div`
   }
 
   .header {
-    background: linear-gradient(-180deg, #f53d2d, #f63);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
     height: 150px;
     width: 100%;
     position: fixed;
@@ -413,17 +413,17 @@ const HomeThoitrangnu = () => {
                 <span className="me-2">Kết nối</span>
                 <img
                   className="icon-media me-2 ml-2"
-                  src={`${process.env.PUBLIC_URL}/assets/images/facebook.png`}
+                  src={`${process.env.PUBLIC_URL}/assets/images/logo_fb.png`}
                   alt=""
                 />
                 <img
                   className="icon-media me-2"
-                  src={`${process.env.PUBLIC_URL}/assets/images/instagram.png`}
+                  src={`${process.env.PUBLIC_URL}/assets/images/logo_ig.png`}
                   alt=""
                 />
                 <img
                   className="icon-media me-2"
-                  src={`${process.env.PUBLIC_URL}/assets/images/pendidikan.png`}
+                  src={`${process.env.PUBLIC_URL}/assets/images/logo_yt.png`}
                   alt=""
                 />
                 <img
@@ -435,13 +435,13 @@ const HomeThoitrangnu = () => {
               <div className="d-flex align-items-center">
                 <img
                   className="icon-media me-2"
-                  src={`${process.env.PUBLIC_URL}/assets/images/notif.png`}
+                  src={`${process.env.PUBLIC_URL}/assets/images/logo_tb.jpg`}
                   alt=""
                 />
                 <span className="me-2">Thông báo</span>
                 <img
                   className="icon-media me-2"
-                  src={`${process.env.PUBLIC_URL}/assets/images/bantuan.png`}
+                  src={`${process.env.PUBLIC_URL}/assets/images/logo_help.jpg`}
                   alt=""
                 />
                 <span className="me-4">Hỗ trợ</span>
@@ -456,13 +456,13 @@ const HomeThoitrangnu = () => {
             </nav>
             {/* input search brand */}
             <div className="d-flex align-items-center mt-4">
-            <NavLink className="d-flex align-items-center" to={"/home"}>
+              <NavLink className="d-flex align-items-center" to={"/home"}>
                 <img
                   className="brand-img mr-2"
-                  src={`${process.env.PUBLIC_URL}/assets/images/brand.png`}
+                  src={`${process.env.PUBLIC_URL}/assets/images/logo_gau.png`}
                   alt=""
                 />
-                <span className="text-brand">Shopee</span>
+                <span className="text-brand">AppStore</span>
               </NavLink>
               <div className="wrap-navbar-input">
                 <div>
@@ -478,16 +478,16 @@ const HomeThoitrangnu = () => {
                     />
                   </InputGroup>
                 </div>
-
-                <div className="under-input d-inline mt-2">
-                  <span className="me-2">Áo Khoác</span>
-                  <span className="me-2">Dép</span>
-                  <span className="me-2">LEGO</span>
-                  <span className="me-2">Túi xách</span>
-                  <span className="me-2">Ốp iPhone</span>
-                  <span className="me-2">Áo Croptop</span>
-                  <span className="me-2">Tai nghe Bluetoth</span>
-                  <span className="me-2">Son</span>
+            <div className="under-input d-inline mt-2">
+                  <span className="me-2">SamSung</span>
+                  <span className="me-2">Iphone</span>
+                  <span className="me-2">Sony</span>
+                  <span className="me-2">Xiaomi</span>
+                  <span className="me-2">Sony</span>
+                  <span className="me-2">Honor</span>
+                  <span className="me-2">Huawei</span>
+                  <span className="me-2">Asus</span>
+                  <span className="me-2">Oppo</span>
                 </div>
               </div>
 
@@ -612,8 +612,8 @@ const HomeThoitrangnu = () => {
                 </div>
               </div>
             </div>
-             {/* Phần Danh Mục  */}
-             <Danhmuc/>
+            {/* Phần Danh Mục  */}
+            <Danhmuc />
             {/* Kết Thúc Danh Mục */}
 
             <Thoitrangnu />

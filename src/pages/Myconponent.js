@@ -20,7 +20,7 @@ function MyComponent() {
           <img
             style={{ marginLeft: !isEmpty ? "1px" : 0 }}
             className="icon-shop"
-            src={`${process.env.PUBLIC_URL}/assets/images/shop.png`}
+            src={`${process.env.PUBLIC_URL}/assets/images/logo_cart.jpg`}
             alt=""
           />
          

@@ -5,13 +5,13 @@ import { useNavigate } from 'react-router-dom';
 
 const StyledSignin = styled.div` 
 #background-login{
-    background-image:url(https://cf.shopee.vn/file/sg-11134004-23010-qacwpnvb05lve3);
+    background-image:url(https://cafefcdn.com/203337114487263232/2024/6/27/120240627170707-1719532745757-17195327465481527432119.jpg);
     background-repeat: no-repeat;
     background-position:left;
-    height: 900px;
+    height: 1000px;
     background-size: contain;
     width: 100%;
-    background-color: #ee4d2d;
+    background-color:rgb(252, 248, 2);
     }
     
     /* form{

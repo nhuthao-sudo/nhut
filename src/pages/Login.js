@@ -1,17 +1,17 @@
-import React, {useState, useEffect} from "react";
+import React, { useState, useEffect } from "react";
 import styled from "styled-components";
-import  {useNavigate} from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 
 
 const StyledLogin = styled.div`
   #background-login {
-    background-image: url(https://cf.shopee.vn/file/sg-11134004-23010-qacwpnvb05lve3);
+    background-image: url(https://cafefcdn.com/203337114487263232/2024/6/27/120240627170707-1719532745757-17195327465481527432119.jpg);
     background-repeat: no-repeat;
     background-position: left;
-    height: 600px;
+    height: 1000px;
     background-size: contain;
     width: 100%;
-    background-color: #ee4d2d;
+    background-color:rgb(252, 248, 2);
   }
   .form-container {
     width: 500px;
@@ -70,16 +70,16 @@ const Login = () => {
   const naviate = useNavigate();
 
   useEffect(() => {
-    if(localStorage.getItem('user-info')){
+    if (localStorage.getItem('user-info')) {
       naviate("/home");
     }
   }, []);
 
-  async function login(e){
+  async function login(e) {
     e.preventDefault();
     console.log(username, password);
 
-    let item = {username, password};
+    let item = { username, password };
     let result = await fetch("http://localhost:8000/user", {
       method: 'POST',
       headers: {
@@ -91,7 +91,7 @@ const Login = () => {
     result = await result.json();
     localStorage.setItem("user-info", JSON.stringify(result))
     naviate("/home")
-    
+
   }
   return (
     <>
@@ -159,7 +159,7 @@ const Login = () => {
                   <small style={{ padding: "0 10px" }}>HOẶC</small>
                   <hr style={{ flexGrow: 1 }} />
                 </div>
-                <p className="d-inline">Bạn mới biết đến Shopee?</p>
+                <p className="d-inline">Bạn mới biết đến AppStore?</p>
                 <a href="signup.html" className="text-decoration-none">
                   Đăng kí
                 </a>
@@ -175,15 +175,15 @@ const Login = () => {
                   CHĂM SÓC KHÁCH HÀNG
                 </strong>
                 <p className="mb-1 mt-2 desc">Trung Tâm Trợ Giúp</p>
-                <p className="mb-1 desc">Shopee Blog</p>
-                <p className="mb-1 desc">Shopee Mall</p>
+                <p className="mb-1 desc">AppStore Blog</p>
+                <p className="mb-1 desc">AppStore Mall</p>
                 <p className="mb-1 desc">Hướng Dẫn Mua Hàng</p>
               </div>
               <div className="d-flex flex-column ml-5">
-                <strong className=" font-weight-bold">VỀ SHOPEE</strong>
-                <p className="mb-1 mt-2 desc ">Giới Thiệu Về Shopee Việt Nam</p>
+                <strong className=" font-weight-bold">VỀ AppStore</strong>
+                <p className="mb-1 mt-2 desc ">Giới Thiệu Về AppStore Việt Nam</p>
                 <p className="mb-1 desc">Tuyển Dụng</p>
-                <p className="mb-1 desc">Điều Khoản Shopee</p>
+                <p className="mb-1 desc">Điều Khoản AppStore</p>
                 <p className="mb-1 desc">Chính Sách Bảo Mật</p>
               </div>
               <div className="d-flex flex-column ml-5">
@@ -216,7 +216,7 @@ const Login = () => {
                 </strong>
                 <div className="d-flex flex-column">
                   <div className="d-flex align-items-center mt-3 ">
-                    <img src="assets/facec.png" width={20} height={20} alt="" />
+                    <img src="/assets/images/logo_fb.png" width={20} height={20} alt="" />
                     <span className="desc ml-3">Facebook</span>
                   </div>
                   <div className="d-flex align-items-center mt-2">
@@ -231,7 +231,7 @@ const Login = () => {
                   </div>
                   <div className="d-flex align-items-center mt-2">
                     <img src="assets/facec.png" width={20} height={20} alt="" />
-                    <span className="desc ml-3">Facebook</span>
+                    
                   </div>
                 </div>
               </div>
@@ -255,7 +255,7 @@ const Login = () => {
             >
               <span className="fs-6">
                 {" "}
-                © 2023 Shopee. Tất cả các quyền được bảo lưu.{" "}
+                © 2024 Shopee. Tất cả các quyền được bảo lưu.{" "}
               </span>
               <span className="fs-6">
                 Quốc gia &amp; Khu vực: Singapore | Indonesia | Đài Loan | Thái

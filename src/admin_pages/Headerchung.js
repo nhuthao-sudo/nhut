@@ -82,11 +82,11 @@ const Headerchung = () => {
                         aria-expanded="false"
                       >
                         <span className="mr-2 d-none d-lg-inline text-gray-600 small">
-                          Trần Quang Đạt
+                         Quản trị
                         </span>
                         <img
                           className="img-profile rounded-circle"
-                          src={`${process.env.PUBLIC_URL}/backend/images/1.png`}
+                          src={`${process.env.PUBLIC_URL}/backend/images/logo.png`}
                           alt="avata"
                         />
                       </a>

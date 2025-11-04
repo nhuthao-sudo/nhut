@@ -125,18 +125,18 @@ function AddProduct(props) {
                         onChange={(e) => setCategory(e.target.value)}
                       >
                         <option value="">-- Chọn Danh Mục --</option>
-                        <option value="thoitrangnam">Thời trang nam</option>
-                        <option value="thoitrangnu">Thời trang nữ</option>
-                        <option value="dienthoai">Điện thoại & phụ kiện</option>
-                        <option value="thietbidientu">Thiết bị điện tử</option>
-                        <option value="mayanh">Máy ảnh & quay phim</option>
-                        <option value="dongho">Đồng hồ</option>
-                        <option value="giaydepnam">Giày dép nam</option>
+                        <option value="thoitrangnam">SamSung</option>
+                        <option value="thoitrangnu">Iphone</option>
+                        <option value="dienthoai">Sony</option>
+                        <option value="thietbidientu">Xiaomi</option>
+                        <option value="mayanh">Honor</option>
+                        <option value="dongho">Huawei</option>
+                        <option value="giaydepnam">Asus</option>
                         <option value="thietbigiadung">
-                          Thiết bị điện & da dụng
+                          Oppo
                         </option>
-                        <option value="thethao">Thể thao & du lịch</option>
-                        <option value="xemay">Ôtô & xe máy & xe đạp</option>
+                        <option value="thethao">Realme</option>
+                        <option value="xemay">Vivo</option>
                       </select>
 
                       <br />
@@ -213,7 +213,7 @@ function AddProduct(props) {
             <footer className="sticky-footer bg-white">
               <div className="container my-auto">
                 <div className="copyright text-center my-auto">
-                  <span>Copyright © Your Website 2021</span>
+                  <span>Copyright © Your Website </span>
                 </div>
               </div>
             </footer>

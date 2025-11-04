@@ -13,13 +13,9 @@ const Menu = () => {
             {/* Sidebar - Brand */}
             <a
               className="sidebar-brand d-flex align-items-center justify-content-center"
-              href="index.html"
+              href="/dashboard"
             >
-              <img
-                src={`${process.env.PUBLIC_URL}/backend/images/cdsg.png`}
-                id="logocdsg"
-                alt="datgold"
-              />
+           Dashboard
             </a>
             {/* Divider */}
             <hr className="sidebar-divider my-0" />
@@ -54,7 +50,7 @@ const Menu = () => {
                 data-parent="#accordionSidebar"
               >
                 <div className="bg-white py-2 collapse-inner rounded">
-                  <h6 className="collapse-header">Xin Chào Đạt,Quân,Châu:</h6>
+                  <h6 className="collapse-header">Danh Mục Quản Lý</h6>
                   <Link className="collapse-item" to={"/addProduct"}>
                     Thêm sản phẩm
                   </Link>

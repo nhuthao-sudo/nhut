@@ -28,18 +28,18 @@ const Thoitrangnu = (props) => {
 
   return (
     <div>
-          <Row xs={1} sm={2} md={3} lg={4} xl={5}>
+      <Row xs={1} sm={2} md={3} lg={4} xl={5}>
         {products.map((item) => (
           <Col key={item.id}>
             <Card
-              style={{ height:"350px" }}
+              style={{ height: "350px" }}
               className="text-center p-0 overflow-hidden shadow mx-auto mb-4 mt-3"
             >
               <Link to={`/product-details/${item.id}`}>
                 <div
                   style={{
                     background: "white",
-                   
+
                     overflow: "hidden",
                     display: "flex",
                     justifyContent: "center",
@@ -74,10 +74,10 @@ const Thoitrangnu = (props) => {
                 <Button
                   className="d-flex align-items-center m-auto border-0"
                   onClick={() => addToCart(item)}
-                  style={{backgroundColor: '#fc5a31', border: '0'}}
+                  style={{ backgroundColor: '#fc5a31', border: '0' }}
                 >
                   <BsCartPlus size="1.8rem" />
-                
+
                 </Button>
               </Card.Body>
             </Card>

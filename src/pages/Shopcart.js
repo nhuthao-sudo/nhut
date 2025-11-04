@@ -65,7 +65,7 @@ const Shopcart = (props) => {
   }
 
   .header {
-    background: linear-gradient(-180deg, #f53d2d, #f63);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
     height: 150px;
     width: 100%;
     position: fixed;
@@ -161,10 +161,10 @@ const Shopcart = (props) => {
     width: 67%;
   }
 `;
-const [searchInput, setSearchInput] = useState("");
+  const [searchInput, setSearchInput] = useState("");
   return (
-<>
-<StyledHeader>
+    <>
+      <StyledHeader>
         <div className="header fixed-top">
           <div className="container">
             {/* navbar  */}
@@ -175,17 +175,17 @@ const [searchInput, setSearchInput] = useState("");
                 <span className="me-2">Kết nối</span>
                 <img
                   className="icon-media me-2 ml-2"
-                  src={`${process.env.PUBLIC_URL}/assets/images/facebook.png`}
+                  src={`${process.env.PUBLIC_URL}/assets/images/logo_fb.png`}
                   alt=""
                 />
                 <img
                   className="icon-media me-2"
-                  src={`${process.env.PUBLIC_URL}/assets/images/instagram.png`}
+                  src={`${process.env.PUBLIC_URL}/assets/images/logo_ig.png`}
                   alt=""
                 />
                 <img
                   className="icon-media me-2"
-                  src={`${process.env.PUBLIC_URL}/assets/images/pendidikan.png`}
+                  src={`${process.env.PUBLIC_URL}/assets/images/logo_yt.png`}
                   alt=""
                 />
                 <img
@@ -197,13 +197,13 @@ const [searchInput, setSearchInput] = useState("");
               <div className="d-flex align-items-center">
                 <img
                   className="icon-media me-2"
-                  src={`${process.env.PUBLIC_URL}/assets/images/notif.png`}
+                  src={`${process.env.PUBLIC_URL}/assets/images/logo_tb.jpg`}
                   alt=""
                 />
                 <span className="me-2">Thông báo</span>
                 <img
                   className="icon-media me-2"
-                  src={`${process.env.PUBLIC_URL}/assets/images/bantuan.png`}
+                  src={`${process.env.PUBLIC_URL}/assets/images/logo_help.jpg`}
                   alt=""
                 />
                 <span className="me-4">Hỗ trợ</span>
@@ -218,13 +218,13 @@ const [searchInput, setSearchInput] = useState("");
             </nav>
             {/* input search brand */}
             <div className="d-flex align-items-center mt-4">
-            <Link className="d-flex align-items-center" to={"/home"}>
+              <Link className="d-flex align-items-center" to={"/home"}>
                 <img
                   className="brand-img mr-2"
-                  src={`${process.env.PUBLIC_URL}/assets/images/brand.png`}
+                  src={`${process.env.PUBLIC_URL}/assets/images/logo_gau.png`}
                   alt=""
                 />
-                <span className="text-brand">Shopee</span>
+                <span className="text-brand">AppStore</span>
               </Link>
               <div className="wrap-navbar-input">
                 <div>
@@ -242,19 +242,20 @@ const [searchInput, setSearchInput] = useState("");
                 </div>
 
                 <div className="under-input d-inline mt-2">
-                  <span className="me-2">Áo Khoác</span>
-                  <span className="me-2">Dép</span>
-                  <span className="me-2">LEGO</span>
-                  <span className="me-2">Túi xách</span>
-                  <span className="me-2">Ốp iPhone</span>
-                  <span className="me-2">Áo Croptop</span>
-                  <span className="me-2">Tai nghe Bluetoth</span>
-                  <span className="me-2">Son</span>
+                  <span className="me-2">SamSung</span>
+                  <span className="me-2">Iphone</span>
+                  <span className="me-2">Sony</span>
+                  <span className="me-2">Xiaomi</span>
+                  <span className="me-2">Honor</span>
+                  <span className="me-2">Huawei</span>
+                  <span className="me-2">Asus</span>
+                  <span className="me-2">Oppo</span>
                 </div>
               </div>
 
               <Link to={"/shopcart"}>
                 {/* //cart */}
+
                 <Myconponent />
                 {/* <Myconponent />
                 <img
@@ -269,156 +270,156 @@ const [searchInput, setSearchInput] = useState("");
       </StyledHeader>
 
       <div className="content mt-5" >
-      <div className="container position-absolute top-50 start-50 translate-middle">
-      <Container className="mt-5 position-absolute top-50 start-50 translate-middle" >
-      <h1 className="text-center my-5 ">
-        {isEmpty ? "Giỏ hàng trống" : "Sản phẩm trong giỏ hàng"}
-      </h1>
-      <Row className="justify-content-center">
-        <Table responsive="sm" striped bordered hover className="mb-5">
-          <tbody>
-            {items.map((item, i) => {
-              return (
-                <tr key={i}>
-                  <td>
-                    <div
-                      style={{
-                        background: "white",
-                        height: "8rem",
-                        overflow: "hidden",
-                        display: "flex",
-                        justifyContent: "center",
-                        alignItems: "center",
-                      }}
-                    >
-                      <div style={{ padding: ".5rem" }}>
-                        <img
-                          src={item.image}
-                          style={{ width: "4rem" }}
-                          alt={item.title}
-                        />
-                      </div>
-                    </div>
-                  </td>
-                  <td>
-                    <h6
-                      style={{
-                        whiteSpace: "nowrap",
-                        width: "14rem",
-                        overflow: "hidden",
-                        textOverflow: "ellipsis",
-                      }}
-                    >
-                      {item.title}
-                    </h6>
-                  </td>
-                  <td>{item.price}VNĐ</td>
-                  <td>Số Lượng {item.quantity}</td>
-                  <td>
-                    <Button
-                      className="ms-2"
-                      onClick={() =>
-                        updateItemQuantity(item.id, item.quantity - 1)
-                      }
-                    >
-                      -
+        <div className="container position-absolute top-50 start-50 translate-middle">
+          <Container className="mt-5 position-absolute top-50 start-50 translate-middle" >
+            <h1 className="text-center my-5 ">
+              {isEmpty ? "Giỏ hàng trống" : "Sản phẩm trong giỏ hàng"}
+            </h1>
+            <Row className="justify-content-center">
+              <Table responsive="sm" striped bordered hover className="mb-5">
+                <tbody>
+                  {items.map((item, i) => {
+                    return (
+                      <tr key={i}>
+                        <td>
+                          <div
+                            style={{
+                              background: "white",
+                              height: "8rem",
+                              overflow: "hidden",
+                              display: "flex",
+                              justifyContent: "center",
+                              alignItems: "center",
+                            }}
+                          >
+                            <div style={{ padding: ".5rem" }}>
+                              <img
+                                src={item.image}
+                                style={{ width: "4rem" }}
+                                alt={item.title}
+                              />
+                            </div>
+                          </div>
+                        </td>
+                        <td>
+                          <h6
+                            style={{
+                              whiteSpace: "nowrap",
+                              width: "14rem",
+                              overflow: "hidden",
+                              textOverflow: "ellipsis",
+                            }}
+                          >
+                            {item.title}
+                          </h6>
+                        </td>
+                        <td>{item.price}VNĐ</td>
+                        <td>Số Lượng {item.quantity}</td>
+                        <td>
+                          <Button
+                            className="ms-2"
+                            onClick={() =>
+                              updateItemQuantity(item.id, item.quantity - 1)
+                            }
+                          >
+                            -
+                          </Button>
+                          <Button
+                            className="ms-2"
+                            onClick={() =>
+                              updateItemQuantity(item.id, item.quantity + 1)
+                            }
+                          >
+                            +
+                          </Button>
+                          <Button
+                            onClick={() => removeItem(item.id)}
+                            variant="danger"
+                            className="ms-3"
+                          >
+                            Xoá sản phẩm
+                          </Button>
+                        </td>
+                      </tr>
+                    );
+                  })}
+                </tbody>
+              </Table>
+              {!isEmpty && (
+                <Row
+                  className="justify-content-center w-100"
+                  style={{ position: "fixed", bottom: 0 }}
+                >
+                  <Col className="py-2">
+                    <h4>Thành tiền: {cartTotal}0.000 VNĐ</h4>
+                  </Col>
+                  <Col className="py-2">
+                    <Button variant="primary" onClick={() => setShowModal(true)}>
+                      Thanh toán
                     </Button>
-                    <Button
-                      className="ms-2"
-                      onClick={() =>
-                        updateItemQuantity(item.id, item.quantity + 1)
-                      }
-                    >
-                      +
-                    </Button>
-                    <Button
-                      onClick={() => removeItem(item.id)}
-                      variant="danger"
-                      className="ms-3"
-                    >
-                      Xoá sản phẩm
-                    </Button>
-                  </td>
-                </tr>
-              );
-            })}
-          </tbody>
-        </Table>
-        {!isEmpty && (
-          <Row
-            className="justify-content-center w-100"
-            style={{ position: "fixed", bottom: 0 }}
-          >
-            <Col className="py-2">
-              <h4>Thành tiền: {cartTotal} VNĐ</h4>
-            </Col>
-            <Col className="py-2">
-              <Button variant="primary" onClick={() => setShowModal(true)}>
-                Thanh toán
-              </Button>
-            </Col>
-          </Row>
-        )}
-      </Row>
-      <Modal show={showModal} onHide={() => setShowModal(false)}>
-        <Modal.Header closeButton>
-          <Modal.Title>Thông tin đặt hàng</Modal.Title>
-        </Modal.Header>
-        <Modal.Body>
-          <Form>
-            <Form.Group className="mb-3" controlId="formName">
-              <Form.Label>Họ và tên:</Form.Label>
-              <Form.Control
-                type="text"
-                placeholder="Nhập họ tên của bạn"
-                value={name}
-                onChange={(e) => setName(e.target.value)}
-              />
-            </Form.Group>
-            <Form.Group className="mb-3" controlId="formAddress">
-              <Form.Label>Địa chỉ:</Form.Label>
-              <Form.Control
-                type="text"
-                placeholder="Nhập địa chỉ của bạn"
-                value={address}
-                onChange={(e) => setAddress(e.target.value)}
-              />
-            </Form.Group>
+                  </Col>
+                </Row>
+              )}
+            </Row>
+            <Modal show={showModal} onHide={() => setShowModal(false)}>
+              <Modal.Header closeButton>
+                <Modal.Title>Thông tin đặt hàng</Modal.Title>
+              </Modal.Header>
+              <Modal.Body>
+                <Form>
+                  <Form.Group className="mb-3" controlId="formName">
+                    <Form.Label>Họ và tên:</Form.Label>
+                    <Form.Control
+                      type="text"
+                      placeholder="Nhập họ tên của bạn"
+                      value={name}
+                      onChange={(e) => setName(e.target.value)}
+                    />
+                  </Form.Group>
+                  <Form.Group className="mb-3" controlId="formAddress">
+                    <Form.Label>Địa chỉ:</Form.Label>
+                    <Form.Control
+                      type="text"
+                      placeholder="Nhập địa chỉ của bạn"
+                      value={address}
+                      onChange={(e) => setAddress(e.target.value)}
+                    />
+                  </Form.Group>
 
-            <Form.Group className="mb-3" controlId="formPhone">
-              <Form.Label>Số điện thoại:</Form.Label>
-              <Form.Control
-                type="text"
-                placeholder="Nhập số điện thoại của bạn"
-                value={phone}
-                onChange={(e) => setPhone(e.target.value)}
-              />
-            </Form.Group>
+                  <Form.Group className="mb-3" controlId="formPhone">
+                    <Form.Label>Số điện thoại:</Form.Label>
+                    <Form.Control
+                      type="text"
+                      placeholder="Nhập số điện thoại của bạn"
+                      value={phone}
+                      onChange={(e) => setPhone(e.target.value)}
+                    />
+                  </Form.Group>
 
-            <Form.Group className="mb-3" controlId="formNote">
-              <Form.Label>Ghi chú:</Form.Label>
-              <Form.Control
-                as="textarea"
-                placeholder="Nhập ghi chú (nếu có)"
-                value={note}
-                onChange={(e) => setNote(e.target.value)}
-              />
-            </Form.Group>
-          </Form>
-        </Modal.Body>
-        <Modal.Footer>
-          <Button variant="secondary" onClick={() => setShowModal(false)}>
-            Đóng
-          </Button>
-          <Button variant="primary" onClick={handleCheckout}>
-            Thanh toán
-          </Button>
-        </Modal.Footer>
-      </Modal>
-    </Container>
-    </div>
+                  <Form.Group className="mb-3" controlId="formNote">
+                    <Form.Label>Ghi chú:</Form.Label>
+                    <Form.Control
+                      as="textarea"
+                      placeholder="Nhập ghi chú (nếu có)"
+                      value={note}
+                      onChange={(e) => setNote(e.target.value)}
+                    />
+                  </Form.Group>
+                </Form>
+              </Modal.Body>
+              <Modal.Footer>
+                <Button variant="secondary" onClick={() => setShowModal(false)}>
+                  Đóng
+                </Button>
+                <Button variant="primary" onClick={handleCheckout}>
+                  Thanh toán
+                </Button>
+              </Modal.Footer>
+            </Modal>
+          </Container>
         </div>
-</>
+      </div>
+    </>
 
 
 

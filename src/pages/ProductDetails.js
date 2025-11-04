@@ -258,7 +258,7 @@ const ProductDetails = (props) => {
     border-bottom: 3px solid #f53d2d !important;
   }
 `;
-const StyledHeader = styled.div`
+  const StyledHeader = styled.div`
   body {
     background-color: #e1e1e1;
   }
@@ -268,7 +268,7 @@ const StyledHeader = styled.div`
   }
 
   .header {
-    background: linear-gradient(-180deg, #f53d2d, #f63);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
     height: 150px;
     width: 100%;
     position: fixed;
@@ -364,58 +364,58 @@ const StyledHeader = styled.div`
     width: 67%;
   }
 `;
-const [imageURL1, setImageURL1] = useState("");
-const [imageURL2, setImageURL2] = useState("");
-const [imageURL3, setImageURL3] = useState("");
-const [imageURL4, setImageURL4] = useState("");
-const [imageURL5, setImageURL5] = useState("");
+  const [imageURL1, setImageURL1] = useState("");
+  const [imageURL2, setImageURL2] = useState("");
+  const [imageURL3, setImageURL3] = useState("");
+  const [imageURL4, setImageURL4] = useState("");
+  const [imageURL5, setImageURL5] = useState("");
 
-useEffect(() => {
-  axios
-    .get("http://localhost:8000/QCimg/1")
-    .then((response) => {
-      setImageURL1(response.data.image);
-    })
-    .catch((error) => console.error(error));
-}, []);
-useEffect(() => {
-  axios
-    .get("http://localhost:8000/QCimg/2")
-    .then((response) => {
-      setImageURL2(response.data.image);
-    })
-    .catch((error) => console.error(error));
-}, []);
-useEffect(() => {
-  axios
-    .get("http://localhost:8000/QCimg/3")
-    .then((response) => {
-      setImageURL3(response.data.image);
-    })
-    .catch((error) => console.error(error));
-}, []);
-useEffect(() => {
-  axios
-    .get("http://localhost:8000/QCimg/4")
-    .then((response) => {
-      setImageURL4(response.data.image);
-    })
-    .catch((error) => console.error(error));
-}, []);
-useEffect(() => {
-  axios
-    .get("http://localhost:8000/QCimg/5")
-    .then((response) => {
-      setImageURL5(response.data.image);
-    })
-    .catch((error) => console.error(error));
-}, []);
+  useEffect(() => {
+    axios
+      .get("http://localhost:8000/QCimg/1")
+      .then((response) => {
+        setImageURL1(response.data.image);
+      })
+      .catch((error) => console.error(error));
+  }, []);
+  useEffect(() => {
+    axios
+      .get("http://localhost:8000/QCimg/2")
+      .then((response) => {
+        setImageURL2(response.data.image);
+      })
+      .catch((error) => console.error(error));
+  }, []);
+  useEffect(() => {
+    axios
+      .get("http://localhost:8000/QCimg/3")
+      .then((response) => {
+        setImageURL3(response.data.image);
+      })
+      .catch((error) => console.error(error));
+  }, []);
+  useEffect(() => {
+    axios
+      .get("http://localhost:8000/QCimg/4")
+      .then((response) => {
+        setImageURL4(response.data.image);
+      })
+      .catch((error) => console.error(error));
+  }, []);
+  useEffect(() => {
+    axios
+      .get("http://localhost:8000/QCimg/5")
+      .then((response) => {
+        setImageURL5(response.data.image);
+      })
+      .catch((error) => console.error(error));
+  }, []);
 
-const [searchInput, setSearchInput] = useState("");
+  const [searchInput, setSearchInput] = useState("");
   return (
 
     <>
-       <StyledHeader>
+      <StyledHeader>
         <div className="header">
           <div className="container">
             {/* navbar  */}
@@ -426,17 +426,17 @@ const [searchInput, setSearchInput] = useState("");
                 <span className="me-2">Kết nối</span>
                 <img
                   className="icon-media me-2 ml-2"
-                  src={`${process.env.PUBLIC_URL}/assets/images/facebook.png`}
+                  src={`${process.env.PUBLIC_URL}/assets/images/logo_fb.png`}
                   alt=""
                 />
                 <img
                   className="icon-media me-2"
-                  src={`${process.env.PUBLIC_URL}/assets/images/instagram.png`}
+                  src={`${process.env.PUBLIC_URL}/assets/images/logo_ig.png`}
                   alt=""
                 />
                 <img
                   className="icon-media me-2"
-                  src={`${process.env.PUBLIC_URL}/assets/images/pendidikan.png`}
+                  src={`${process.env.PUBLIC_URL}/assets/images/logo_yt.png`}
                   alt=""
                 />
                 <img
@@ -448,13 +448,13 @@ const [searchInput, setSearchInput] = useState("");
               <div className="d-flex align-items-center">
                 <img
                   className="icon-media me-2"
-                  src={`${process.env.PUBLIC_URL}/assets/images/notif.png`}
+                  src={`${process.env.PUBLIC_URL}/assets/images/logo_tb.jpg`}
                   alt=""
                 />
                 <span className="me-2">Thông báo</span>
                 <img
                   className="icon-media me-2"
-                  src={`${process.env.PUBLIC_URL}/assets/images/bantuan.png`}
+                  src={`${process.env.PUBLIC_URL}/assets/images/logo_help.jpg`}
                   alt=""
                 />
                 <span className="me-4">Hỗ trợ</span>
@@ -469,13 +469,13 @@ const [searchInput, setSearchInput] = useState("");
             </nav>
             {/* input search brand */}
             <div className="d-flex align-items-center mt-4">
-            <Link className="d-flex align-items-center" to={"/home"}>
+              <Link className="d-flex align-items-center" to={"/home"}>
                 <img
                   className="brand-img mr-2"
-                  src={`${process.env.PUBLIC_URL}/assets/images/brand.png`}
+                  src={`${process.env.PUBLIC_URL}/assets/images/logo_gau.png`}
                   alt=""
                 />
-                <span className="text-brand">Shopee</span>
+                <span className="text-brand">AppStore</span>
               </Link>
               <div className="wrap-navbar-input">
                 <div>
@@ -493,14 +493,14 @@ const [searchInput, setSearchInput] = useState("");
                 </div>
 
                 <div className="under-input d-inline mt-2">
-                  <span className="me-2">Áo Khoác</span>
-                  <span className="me-2">Dép</span>
-                  <span className="me-2">LEGO</span>
-                  <span className="me-2">Túi xách</span>
-                  <span className="me-2">Ốp iPhone</span>
-                  <span className="me-2">Áo Croptop</span>
-                  <span className="me-2">Tai nghe Bluetoth</span>
-                  <span className="me-2">Son</span>
+                  <span className="me-2">SamSung</span>
+                  <span className="me-2">Iphone</span>
+                  <span className="me-2">Sony</span>
+                  <span className="me-2">Xiaomi</span>
+                  <span className="me-2">Honor</span>
+                  <span className="me-2">Huawei</span>
+                  <span className="me-2">Asus</span>
+                  <span className="me-2">Oppo</span>
                 </div>
               </div>
 
@@ -540,7 +540,7 @@ const [searchInput, setSearchInput] = useState("");
             src={`${process.env.PUBLIC_URL}/assets/images/shape2.png`}
             alt=""
           />
-          <div className="container" style={{backgroundColor: 'white'}}>
+          <div className="container" style={{ backgroundColor: 'white' }}>
             {/* carousel */}
             <div className="row wrap-carousel">
               <div className="col-8 h-100 pr-1">
@@ -625,65 +625,65 @@ const [searchInput, setSearchInput] = useState("");
                 </div>
               </div>
             </div>
-           {/* Phần Danh Mục  */}
-           <Container className="py-5">
-      <Row className="justify-content-center mt-5">
-        <Col xs={10} md={7} lg={5} className="p-0">
-          <Lightbox
-            images={[
-              {
-                src: productData.image,
-                title: productData.title,
-                description: "img 1",
-              },
-              {
-                src: img.img1,
-                title: productData.title,
-                description: "img 2",
-              },
-              {
-                src: img.img2,
-                title: productData.title,
-                description: "img 3",
-              },
-              {
-                src: img.img3,
-                title: productData.title,
-                description: "img 4",
-              },
-            ]}
-          />
-        </Col>
-        <Col xs={10} md={7} lg={7}>
-          <h4>{productData.title}</h4>
-          <b className="h6 d-block mt-3" style={{ color:'#ee4d2d'}}>4.4 ⭐⭐⭐⭐⭐</b>
-         
-          <br />
-          <h4 style={{ color:'#ee4d2d'}}>{productData.price} VNĐ</h4>
-          <p className="d-inline" style={{color: '#757575'}}>Vận chuyển:</p><span className="d-inline ms-4"><img src={`${process.env.PUBLIC_URL}/assets/vanchuyenn.png`} alt="" style={{ width:'30px'}}/>  Miễn phí vận chuyển</span>
-          
-          <p className="mt-3 h6" style={{ opacity: "0.8", fontWeight: "400" }}>
-            {productData.description}
-          </p>
-          <Button
-            onClick={() => addToCart(productData)}
-            style={{ borderRadius: "0", border: '1px solid #ee4d2d', color: '#ee4d2d', backgroundColor: '#fff5f1'}}
-            className="mt-3"
-          >
-            <BsCartPlus size="1.8rem" />
-            Thêm Vào Giỏ Hàng
-          </Button>
-        </Col>
-      </Row>
-    </Container>
+            {/* Phần Danh Mục  */}
+            <Container className="py-5">
+              <Row className="justify-content-center mt-5">
+                <Col xs={10} md={7} lg={5} className="p-0">
+                  <Lightbox
+                    images={[
+                      {
+                        src: productData.image,
+                        title: productData.title,
+                        description: "img 1",
+                      },
+                      {
+                        src: img.img1,
+                        title: productData.title,
+                        description: "img 2",
+                      },
+                      {
+                        src: img.img2,
+                        title: productData.title,
+                        description: "img 3",
+                      },
+                      {
+                        src: img.img3,
+                        title: productData.title,
+                        description: "img 4",
+                      },
+                    ]}
+                  />
+                </Col>
+                <Col xs={10} md={7} lg={7}>
+                  <h4>{productData.title}</h4>
+                  <b className="h6 d-block mt-3" style={{ color: '#ee4d2d' }}>4.4 ⭐⭐⭐⭐⭐</b>
+
+                  <br />
+                  <h4 style={{ color: '#ee4d2d' }}>{productData.price} VNĐ</h4>
+                  <p className="d-inline" style={{ color: '#757575' }}>Vận chuyển:</p><span className="d-inline ms-4"><img src={`${process.env.PUBLIC_URL}/assets/vanchuyenn.png`} alt="" style={{ width: '30px' }} />  Miễn phí vận chuyển</span>
+
+                  <p className="mt-3 h6" style={{ opacity: "0.8", fontWeight: "400" }}>
+                    {productData.description}
+                  </p>
+                  <Button
+                    onClick={() => addToCart(productData)}
+                    style={{ borderRadius: "0", border: '1px solid #ee4d2d', color: '#ee4d2d', backgroundColor: '#fff5f1' }}
+                    className="mt-3"
+                  >
+                    <BsCartPlus size="1.8rem" />
+                    Thêm Vào Giỏ Hàng
+                  </Button>
+                </Col>
+              </Row>
+            </Container>
             {/* Kết Thúc Danh Mục */}
 
-           
+
           </div>
         </div>
       </StyledHome>
     </>
-    
+
   );
 };
 

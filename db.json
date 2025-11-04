@@ -33,266 +33,707 @@
   },
   "imgProducDistel": [
     {
-      "img1": "aaaaaa",
-      "img2": "aaaaaaaaa",
-      "img3": "aaaaaaaaaaa",
+      "img1": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s25-ultra_1__3.png",
+      "img2": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s25-utra_15_.png",
+      "img3": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s25-utra_9_.png",
+      "id": 1
+    },
+    {
+      "img1": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-z-flip-7-xanh.jpg",
+      "img2": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-z-flip-7-xanh-5.jpg",
+      "img3": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-z-flip-7-do-1.jpg",
       "id": 2
     },
     {
-      "img1": "https://cf.shopee.vn/file/sg-11134201-22120-1bbpdql1o9kv6f",
-      "img2": "https://cf.shopee.vn/file/c63b543f5d2db98297317113ef99c658",
-      "img3": "https://cf.shopee.vn/file/468d5c9e5502825d8ca559bb9659f531",
+      "img1": "https://cdn.tgdd.vn/Products/Images/42/249948/samsung-galaxy-s23-ultra-1-2-750x500.jpg",
+      "img2": "https://cdn.tgdd.vn/Products/Images/42/249948/samsung-galaxy-s23-ultra-4-1-750x500.jpg",
+      "img3": "https://cdn.tgdd.vn/Products/Images/42/249948/samsung-galaxy-s23-ultra-5-1-750x500.jpg",
+      "id": 3
+    },
+    {
+      "img1": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/42/331207/samsung-galaxy-a16-xanh-1-638684923433246535-750x500.jpg",
+      "img2": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/42/331207/samsung-galaxy-a16-xanh-4-638684923460301728-750x500.jpg",
+      "img3": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/42/331207/samsung-galaxy-a16-xanh-6-638684923472756611-750x500.jpg",
       "id": 4
     },
     {
-      "img1": "https://cf.shopee.vn/file/d3fd58e067ebe5a38cd611bee23c3232",
-      "img2": "https://cf.shopee.vn/file/sg-11134201-22090-gxug3d8t1vhv6e",
-      "img3": "https://cf.shopee.vn/file/sg-11134201-22090-5f0ice8t1vhve5",
+      "img1": "https://cdn.tgdd.vn/Products/Images/42/321772/Slider/vi-vn-samsung-galaxy-a35-5g-1.jpg",
+      "img2": "https://cdn.tgdd.vn/Products/Images/42/321772/samsung-galaxy-a35-xanh-nhat-4-750x500.jpg",
+      "img3": "https://cdn.tgdd.vn/Products/Images/42/321772/samsung-galaxy-a35-xanh-nhat-7-750x500.jpg",
       "id": 5
     },
     {
-      "img1": "https://cf.shopee.vn/file/sg-11134201-23010-5o8rhh9jgylvcf",
-      "img2": "https://cf.shopee.vn/file/sg-11134201-23010-hgwri8nkgylv0c",
-      "img3": "https://cf.shopee.vn/file/sg-11134201-23010-q62oo45jgylvd9",
+      "img1": "https://cdn.tgdd.vn/Products/Images/42/328752/Slider/samsung-galaxy-a06-4gb-64gb638611298654246522.jpg",
+      "img2": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/42/328752/samsung-galay-a06-xanh-duong-4-638618399465030628-750x500.jpg",
+      "img3": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/42/328752/samsung-galay-a06-xanh-duong-12-638618399516896575-750x500.jpg",
+      "id": 5
+    },
+    {
+      "img1": "https://cdn.tgdd.vn/Products/Images/42/320721/Slider/vi-vn-samsung-galaxy-z-fold6-5g-1.jpg",
+      "img2": "https://cdn.tgdd.vn/Products/Images/42/320721/samsung-galaxy-z-fold6-xam-2-1-750x500.jpg",
+      "img3": "https://cdn.tgdd.vn/Products/Images/42/320721/samsung-galaxy-z-fold6-xam-1-1-750x500.jpg",
       "id": 6
     },
     {
-      "img1": "https://cf.shopee.vn/file/sg-11134201-22110-nomjthxsjvjv84",
-      "img2": "https://cf.shopee.vn/file/sg-11134201-22110-okfbv7q1jvjva0",
-      "img3": "https://cf.shopee.vn/file/vn-11134207-23010-98y8ufqnu8lvb6",
+      "img1": "https://cdn.tgdd.vn/Products/Images/42/321891/Slider/vi-vn-samsung-galaxy-m55-tong-quan-1.jpg",
+      "img2": "https://cdn.tgdd.vn/Products/Images/42/321891/samsung-galaxy-m55-5g-green-1-750x500.jpg",
+      "img3": "https://cdn.tgdd.vn/Products/Images/42/321891/samsung-galaxy-m55-5g-green-4-750x500.jpg",
       "id": 7
     },
     {
-      "img1": "https://cf.shopee.vn/file/87452db51f3a50c8577efdebfa465256",
-      "img2": "https://cf.shopee.vn/file/4e1f5bda35161e8358ea69280334aff4",
-      "img3": "https://cf.shopee.vn/file/179c3c08b28c631cc84a9827f2b639dc",
+      "img1": "https://cdn.tgdd.vn/Products/Images/42/322096/Slider/samsung-galaxy-a55-knox-vault-1020x570.jpg",
+      "img2": "https://cdn.tgdd.vn/Products/Images/42/322096/samsung-galaxy-a55-5g-xanh-4-1-750x500.jpg",
+      "img3": "https://cdn.tgdd.vn/Products/Images/42/322096/samsung-galaxy-a55-5g-xanh-7-750x500.jpg",
       "id": 8
     },
     {
-      "img1": "https://cf.shopee.vn/file/sg-11134201-23020-3x1dbd86zinvd3",
-      "img2": "https://cf.shopee.vn/file/sg-11134201-23020-giffbd86zinvff",
-      "img3": "https://cf.shopee.vn/file/sg-11134201-23020-5lyadg86zinv6c",
+      "img1": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/42/329149/iphone-16-pro-max-titan-sa-mac-1-638638962337813406-750x500.jpg",
+      "img2": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/42/329149/iphone-16-pro-max-titan-sa-mac-5-638638962363556047-750x500.jpg",
+      "img3": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/42/329149/iphone-16-pro-max-titan-sa-mac-3-638638962351331027-750x500.jpg",
       "id": 9
     },
     {
-      "img1": "https://cf.shopee.vn/file/a3f6701512dcf83d30c845d837b6e372",
-      "img2": "https://cf.shopee.vn/file/e3d993dd8dbab3cfe50bc2ff8a75f6cb",
-      "img3": "https://cf.shopee.vn/file/e380893855d144f99958a2f2e0389e80",
+      "img1": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/42/329149/iphone-16-pro-max-titan-sa-mac-1-638638962337813406-750x500.jpg",
+      "img2": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/42/329149/iphone-16-pro-max-titan-sa-mac-5-638638962363556047-750x500.jpg",
+      "img3": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/42/329149/iphone-16-pro-max-titan-sa-mac-3-638638962351331027-750x500.jpg",
       "id": 10
     },
     {
-      "img1": "https://cf.shopee.vn/file/34a1dfeb38ba7d219f89382c3c48255a",
-      "img2": "https://cf.shopee.vn/file/ffd25ecf29da9139f25cac3531d15280",
-      "img3": "https://cf.shopee.vn/file/8f9dcf807b2ee4dc16a0e3cfe5bc4faf",
+      "img1": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-16-2.png",
+      "img2": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-16-4.png",
+      "img3": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-16-6.png",
       "id": 11
     },
     {
-      "img1": "https://cf.shopee.vn/file/920b679f2ffe6c73e4d8730749120af7",
-      "img2": "https://cf.shopee.vn/file/ad2e05995627112de18fbf53770220b2",
-      "img3": "https://cf.shopee.vn/file/f168209e6974b72f0d75e82ccfd05f43",
+      "img1": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-16-2.png",
+      "img2": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-16-4.png",
+      "img3": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-16-6.png",
       "id": 12
     },
     {
-      "img1": "https://cf.shopee.vn/file/sg-11134201-22110-r4s0q6jn78jve5",
-      "img2": "https://cf.shopee.vn/file/sg-11134201-22110-8uz9a7jn78jv36",
-      "img3": "https://cf.shopee.vn/file/sg-11134201-22110-4vp3m0jn78jv71",
+      "img1": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/42/303831/iphone-15-pro-titan-den-2-638629422334738686-750x500.jpg",
+      "img2": "https://cdn.tgdd.vn/Products/Images/42/303831/iphone-15-pro-black-1-750x500.jpg",
+      "img3": "https://cdn.tgdd.vn/Products/Images/42/303831/iphone-15-pro-black-4-750x500.jpg",
       "id": 13
     },
     {
-      "img1": "https://cf.shopee.vn/file/fe63595806dca2e463ca639a4563c27a",
-      "img2": "https://cf.shopee.vn/file/b75dd34c325f961c0cb1db1b155590f2",
-      "img3": "https://cf.shopee.vn/file/aa49542366f6a3bd5a6822d6a2e7f4e0",
+      "img1": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/42/303831/iphone-15-pro-titan-den-2-638629422334738686-750x500.jpg",
+      "img2": "https://cdn.tgdd.vn/Products/Images/42/303831/iphone-15-pro-black-1-750x500.jpg",
+      "img3": "https://cdn.tgdd.vn/Products/Images/42/303831/iphone-15-pro-black-4-750x500.jpg",
       "id": 14
     },
     {
-      "img1": "https://cf.shopee.vn/file/86b6049018bfa9e1eb2bc864dd6197c4",
-      "img2": "https://cf.shopee.vn/file/b7e2d162b66ce107cf39ad73d73945bd",
-      "img3": "https://cf.shopee.vn/file/ca46bb93172a909b9e20a89beecdce03",
+      "img1": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/_/i/_i_n_tho_i_sony_xperia_10vi_8gb_128gb_-_1.png",
+      "img2": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/i/dien-thoai-sony-xperia-10-vi.png",
+      "img3": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/i/dien-thoai-sony-xperia-10-vi_1_.png",
       "id": 15
     },
     {
-      "img1": "https://cf.shopee.vn/file/22eee3d7dec540b570b021c83390fca8",
-      "img2": "https://cf.shopee.vn/file/5673380e5eeb6d36dcb6f46877e907e9",
-      "img3": "https://cf.shopee.vn/file/f0457c77eef2dd8052593e54a20e678b",
+      "img1": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/_/i/_i_n_tho_i_sony_xperia_1vi_12gb_256gb_-_1.png",
+      "img2": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/_/i/_i_n_tho_i_sony_xperia_1vi_12gb_256gb_-_2.png",
+      "img3": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/m/image_1184_2.png",
       "id": 16
+    },
+    {
+      "img1": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/42/332255/honor-magic-v3-green-1-638699674139107052-750x500.jpg",
+      "img2": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/42/332255/honor-magic-v3-green-7-638699674183314912-750x500.jpg",
+      "img3": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/42/332255/honor-magic-v3-green-9-638699674196554307-750x500.jpg",
+      "id": 17
+    },
+    {
+      "img1": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/42/329133/honor-200-den-1-638612358629167213-750x500.jpg",
+      "img2": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/42/329133/honor-200-den-4-638612358647371013-750x500.jpg",
+      "img3": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/42/329133/honor-200-den-12-638612358698908725-750x500.jpg",
+      "id": 18
     }
   ],
   "user": [
     {
-      "username": "danghongquan123",
-      "password": "danghongquan",
+      "username": "hung@gmail.com",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "username": "hung@gmail.com",
+      "password": "123456",
+      "user": "hung",
+      "address": "hcm",
+      "phone": "312321",
+      "id": 4
+    },
+    {
+      "username": "",
+      "password": "",
       "user": "",
       "address": "",
       "phone": "",
-      "id": 1
+      "id": 5
     },
     {
-      "username": "chauvo",
-      "password": "chauvo",
-      "id": 2
+      "username": "",
+      "password": "",
+      "user": "",
+      "address": "",
+      "phone": "",
+      "id": 6
+    },
+    {
+      "username": "admin",
+      "password": "12345",
+      "id": 7
     }
   ],
   "products": [
     {
+      "id": 1,
+      "title": "Samsung Galaxy S25 Ultra 12GB 256GB",
+      "price": "26.380000",
+      "description": "- Samsung Galaxy S25 Ultra là dòng sản phẩm mới được nhà samsung ra mắt vào đầu năm 2025. Với rất nhiều tính năng vượt trội so với các thế hệ trước, hứa hẹn mang lại trải nghiệm hết sức tuyệt vời cho người sử dụng. samsung đã trang bị cho dòng sản phẩm này công nghệ Galaxy AI cùng thiết kế sang trọng với khung viền Titan đẳng cấp. ",
+      "category": "thoitrangnam",
+      "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s25-ultra_3__3.png",
+      "rating": {}
+    },
+    {
+      "id": 2,
+      "title": "Samsung Galaxy Z Flip7 12GB 256GB",
+      "price": "26.990000",
+      "description": "Samsung Galaxy Z Flip7 là dòng điện thoại thế hệ Galaxy Z Flip tiếp theo được Samsung công bố ra thị trường với nhiều tính năng và cập nhật lớn. Phiên bản này sẽ có màn hình phụ 3.4 inch, pin 4000mAh và camera chính 50MP. Galaxy Z Flip6 còn được trang bị bộ vi xử lý lớn hơn với chip Snapdragon 8 Gen 3 dành cho Galaxy cực mạnh. Kèm với đó, chiếc điện thoại Samsung này sẽ có bộ nhớ lên tới 12GB RAM và được trang bị Galaxy AI.",
+      "category": "thoitrangnam",
+      "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-z-flip-7-xanh.jpg",
+      "rating": {}
+    },
+    {
+      "id": 3,
+      "title": "Samsung Galaxy S23 Ultra 5G 8GB/256GB",
+      "price": "20.190000",
+      "description": "Samsung Galaxy S23 Ultra sở hữu màn hình 6.8 inch Dynamic AMOLED 2X với độ phân giải QHD+, mang đến trải nghiệm hình ảnh siêu sống động và sắc nét. Camera chính trên máy sở hữu độ rõ nét đạt tới 200MP với công nghệ ổn định hình ảnh quang học, giúp chụp ảnh chất lượng cao trong nhiều điều kiện ánh sáng. Kèm theo đó là chip Snapdragon 8 Gen 2 4nm mạnh mẽ, kết hợp RAM 8GB, đảm bảo hiệu suất mượt mà và khả năng xử lý tác vụ nhanh chóng.",
+      "category": "thoitrangnam",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/249948/TimerThumb/samsung-galaxy-s23-ultra-(16).jpg",
+      "rating": {}
+    },
+    {
+      "id": 4,
+      "title": "Samsung Galaxy A16 8GB/128GB",
+      "price": "5.690000",
+      "description": "Samsung mới đây vừa trình làng bộ đôi smartphone tầm trung hoàn toàn mới - Galaxy A16 và Galaxy A16 5G. Cả hai thiết bị này đều được trang bị hàng loạt tính năng xịn sò, cùng với đó là thiết kế cực kỳ sang trọng và tinh tế.",
+      "category": "thoitrangnam",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/331207/TimerThumb/samsung-galaxy-a16-8gb-128gb-(2).jpg",
+      "rating": {}
+    },
+    {
       "id": 5,
-      "title": "Áo phông form rộng tay lỡ Hadez hình chữ H unisex",
-      "price": "154",
-      "description": "THÔNG TIN SẢN PHẨM\n- Sản phẩm: áo thun unisex DT Clothes bắt mắt\n- Mặc ở nhà, mặc đi chơi hoặc khi vận động thể thao. Phù hợp khi mix đồ với nhiều loại.\n- Thiết kế hiện đại, trẻ trung, năng động, dễ phối đồ.\n- Thiết kế Unisex sẽ mang đến một outfit năng động và cá tính dù không cần mix-match cầu kì.\n\nKh e sỉ sll giá siêu mềm đa dạng mẫu mã nhiều loại đồ unisex giá 2x \nlh hotline : 0963.19.50.25\n\n\n\n\nDo màn hình và điều kiện ánh sáng khác nhau, màu sắc thực tế của sản phẩm có thể chênh lệch khoảng2-3%\n\n#dtclothes #aothun #aothunnamnu #aothununisex #aophong #aonamnu #thoitrangnamnu #unisex #aofreesize #aothunoversize #Hades #aoxanhla",
-      "category": "",
-      "image": "https://cf.shopee.vn/file/sg-11134201-22090-suwtr6yu1vhvd6",
+      "title": "Samsung Galaxy A06 4GB/64GB",
+      "price": "3.090000",
+      "description": "Samsung Galaxy A06 mang đến sự kết hợp hoàn hảo giữa thiết kế tinh tế, hiệu năng mạnh mẽ và bảo mật cao cấp. Với màn hình 6.7 inch, camera 50 MP, pin bền bỉ cùng nhiều cải tiến vượt trội, Galaxy A06 là lựa chọn lý tưởng cho mọi nhu cầu sử dụng hằng ngày.",
+      "category": "thoitrangnam",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/328752/TimerThumb/samsung-galaxy-a06-4gb-64gb-(2).jpg",
       "rating": {}
     },
     {
       "id": 6,
-      "title": "áo khoác dior thêu xanh trắng hàng vip",
-      "price": "249",
-      "description": "- Áo khoác chất vải bò kaki thể thao, không xù, không nhăn và không phai màu.\n- Đường may tỉ mỉ, sắc nét.\n- Thiết kế hiện đại, trẻ trung, năng động.\n- size S ;38-45kg, cao dưới 1m65\nBạn đã gửi\nsize :M,,46-55kg,dưới 1m74\nBạn đã gửi\nsize L,;57-64kg,dưới 1m77\nBạn đã gửi\nsize xl ; 65-73kg. cao dưới 1m80\nBạn đã gửi\nsize xxl ;73-76kg ,cao 1m8\nBạn đã gửi\nsize xxxl,76- 80kg,,,\n\n✅ HƯỚNG DẪN BẢO QUẢN VÀ SỬ DỤNG\n\n- Nên giặt tay thay vì giặt máy để đảm bảo độ bền của sản phẩm. \n- Sau khi giặt xong, chỉ cần phơi khô tự nhiên rồi sử dụng như bình thường thay vì phải là ủi. \n- Tránh giặt với nước nóng. Thay vào đó hãy sử dụng nước ấm hoặc nước lạnh nhé. \n- Nếu đồ có màu, hãy giặt với nước lạnh để ngăn không cho chúng bị bay màu. \n- Chỉ sử dụng nước giặt có nồng độ chất tẩy thấp. \n- Nên phơi tự nhiên trong không khí là cách tốt nhất nếu muốn làm khô.\n\n✅ CHÍNH SÁCH MUA HÀNG TẠI SHOP\n\n1. Trường hợp được chấp nhận:\n- Điều kiện áp dụng (trong vòng 03 ngày kể từ khi nhận sản phẩm). \n- Hàng hoá vẫn còn mới, chưa qua sử dụng.\n- Hàng hóa hư hỏng do vận chuyển hoặc do nhà sản xuất.\n- Hàng không đúng size, kiểu dáng như quý khách đặt hàng.\n- Không đủ số lượng, không đủ bộ như trong đơn hàng. \n2. Trường hợp không đủ điều kiện áp dụng chính sách: \n- Quá 03 ngày kể từ khi quý khách nhận hàng. \n- Gửi lại hàng không đúng mẫu mã, không phải hàng của shop. \n- Đặt nhầm sản phẩm, chủng loại, không thích, không hợp,...\n\n#thoitrangnam #fashion #ao #aokhoac #aokhoaccolong #aokhoactheuchunoi",
-      "category": "thoitrangnam",
-      "image": "https://cf.shopee.vn/file/sg-11134201-23010-ogwcs5wjgylv91",
+      "title": "Samsung Galaxy Z Fold6 5G 12GB/256GBB",
+      "price": "41.990000",
+      "description": "Samsung Galaxy Z Fold6 là dòng điện thoại thông minh thế hệ Galaxy Z Fold tiếp theo được Samsung công bố ra thị trường với nhiều tính năng và cập nhật lớn. Phiên bản này sẽ có màn hình ngoài 6.3 inch, PIN 4400mAh, và camera trước 10MP. Galaxy Z Fold6 còn được trang bị hệ thống làm mát lớn hơn với công nghệ chipset Snapdragon 8 Gen 3 For Galaxy cực mạnh. Kèm với đó, điện thoại sẽ có bộ nhớ lên tới 12GB RAM và được trang bị Galaxy AI.",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/320721/TimerThumb/samsung-galaxy-z-fold6-(2).jpg",
       "rating": {}
     },
     {
       "id": 7,
-      "title": "Áo Thun Local Brand Unisex Karants Premium 100% Cotton Basic Tee - KR01",
-      "price": 185000,
-      "description": "- Tất cả các sản phẩm đều được shop bảo hành\n\n- Đối với sản phẩm lỗi/đơn hàng thiếu sản phẩm, quý khách vui lòng nhắn tin/gọi ngay cho shop trong vòng 7 ngày (kể từ ngày nhận đơn hàng)\n\n- Nếu quá thời hạn 7 ngày kể từ ngày nhận đơn hàng, chế độ bảo hành của KARANTS sẽ hết hiệu lực",
+      "title": "Samsung Galaxy M55 5G 8GB/256GB",
+      "price": "9.390000",
+      "description": "Samsung Galaxy M55 gây ấn tượng với thiết kế trẻ trung với 2 màu sắc thời thượng là Xanh Lá và Đen. Model này được hoàn thiện bằng bộ khung nguyên khối và mặt lưng làm bằng chất liệu nhựa polycarbonate. Ngoài ra, Samsung Galaxy M55 5G còn có khả năng kháng bụi, kháng nước chuẩn IP67.",
       "category": "thoitrangnam",
-      "image": "https://cf.shopee.vn/file/sg-11134201-23010-vi6elzwzzylvf4",
-      "rating": {
-        "rate": 0,
-        "count": 0
-      }
+      "image": "https://cdn.tgdd.vn/Products/Images/42/321891/TimerThumb/samsung-galaxy-m55-(2).jpg",
+      "rating": {}
     },
     {
       "id": 8,
-      "title": "Bộ Pijama Hai Dây Dễ Thương Vải Đũi Cực Mát (Có Bigsize)",
-      "price": 99000,
-      "description": "Bộ Đồ Ngủ Hai Dây Dễ Thương Vải Cực Mát ( Có Big size)\nvải đũi xốp mềm mịn mát\nSize M dưới 45kg\n         L 45-55kg\n         Xl 55-65kg\n         Xxl 65-75kg ",
-      "category": "thoitrangnu",
-      "image": "https://cf.shopee.vn/file/e8296273f2edc599780863e6109f235b",
-      "rating": {
-        "rate": null,
-        "count": null
-      }
+      "title": "Samsung Galaxy A55 5G 12GB/256GB",
+      "price": "11.490000",
+      "description": "Samsung Galaxy A55 là thành viên mới nhất trong dòng sản phẩm A series, hứa hẹn mang đến nhiều tính năng tiên tiến cùng với kết nối 5G tốc độ cao. Sản phẩm được trình làng với mục tiêu cung cấp một chiếc điện thoại thông minh cao cấp, đa chức năng nhưng với mức giá phải chăng.",
+      "category": "thoitrangnam",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/322096/TimerThumb/samsung-galaxy-a55-5g-(4).jpg",
+      "rating": {}
     },
     {
       "id": 9,
-      "title": "Set Bộ Đồ Nữ Phông cotton Phối Quần Chấm Bi Lụa Hàn Siêu Dễ thương ( Có Bigsize) S35",
-      "price": 119000,
-      "description": "Set Bộ Đồ Nữ Phông cotton Phối Quần Chấm Bi Lụa Hàn Siêu Dễ thương ( Có Bigsize) S35\n✔️ Size : \n             S M L XL XXL 3xl\n             Size S :dưới 50kg  Eo < 66, \n             Size M : dưới 55kg  Eo < 70  \n             Size L : dưới 59kg  Eo 74, Mông 100\n             Size xl : 58-65kg eo 78cm\n             Size xxl 66-70kg eo 82 cm\n             Size 3xl 71-80kg eo 86cm \nSize phụ thuộc cả chiều cao và cân nặng \nChứ không chỉ mỗi cân nặng❤️",
+      "title": "IPhone 16 Pro Max 256GB",
+      "price": "34.090000",
+      "description": "iPhone 16 Pro Max có tính năng và thiết kế ấn tượng, cùng cấu hình tối ưu. Với những đổi mới từ phía nhà sản xuất, kết hợp công nghệ hiện đại, điện thoại là mẫu flagship đáng trải nghiệm.",
       "category": "thoitrangnu",
-      "image": "https://cf.shopee.vn/file/sg-11134201-23020-5lyadg86zinv6c",
-      "rating": {
-        "rate": null,
-        "count": null
-      }
+      "image": "https://cdn.tgdd.vn/Products/Images/42/329149/TimerThumb/iphone-16-pro-max-(2).jpg",
+      "rating": {},
+      "quantity": 1,
+      "itemTotal": 34
     },
     {
       "id": 10,
-      "title": "Ốp lưng iphone dẻo lưng nhám phím màu chống bẩn vân tay chống sốc bảo vệ camera 7plus/8plus/x/xsmax/11/12/13/14/promax",
-      "price": 15000,
-      "description": "BAOANNSHOP - ỐP LƯNG IPHONE\n🔰 THÔNG TIN SẢN PHẨM: Ốp lưng iphone dẻo lưng nhám phím màu chống bẩn vân tay chống sốc bảo vệ camera 7plus/8plus/x/xs/xsmax/11/12/13/14/promax\n➖ Xuất Xứ: Việt Nam\n➖ Hình Thức Sản Xuất: Tự in Hình lên Phôi.\n➖ Chất liệu: Nhựa nhám dẻo\n➖ Màu sắc: Đen - Xanh tím - Xanh lam\n➖ Ốp lưng được đóng gói bằng túi nilon thiết kế đẹp. \n      - Mực in chất lượng cao,sắc nét, không phai màu, không gây hại cho da\n      - Hình ảnh thiết kế đẹp, phong cách, trẻ trung.\n➖ Công dụng: thay đổi màu sắc cho điện thoại, giữ điện thoại chắc chắn trên tay, an toàn chống trầy xước, bảo vệ chiếc ốp khỏi va đập.\n➖ Dòng máy tương thích: Ốp lưng iPhone 7 Plus, Ốp lưng iPhone 8 Plus, Ốp lưng iPhone X ,Ốp lưng iPhone Xs, Ốp lưng iPhone Xs Max, Ốp lưng iPhone 11, Ốp lưng iPhone 11 Pro Max, Ốp lưng iPhone 12, Ốp lưng iPhone 12 Pro Max, Ốp lưng iPhone 13, Ốp lưng iPhone 13 Pro Max, Ốp lưng iPhone 14 Pro Max, Ốp lưng iPhone 14, Ốp lưng iPhone 14pro, Ốp lưng iPhone 12 Pro, Ốp lưng iPhone 13 Pro, Ốp lưng iPhone 11 Pro",
-      "category": "dienthoai",
-      "image": "https://cf.shopee.vn/file/1abd0f88a5021445293e90f3bbb62d40",
-      "rating": {
-        "rate": null,
-        "count": null
-      }
+      "title": "IPhone 16 Pro Max 256GB",
+      "price": "34.450000",
+      "description": "Thiết kế đẳng cấp, hoàn hảo từ mọi góc nhìn\nNếu như nhìn thoáng qua, iPhone 16 Pro Max không có quá nhiều thay đổi so với phiên bản tiền nhiệm, iPhone 15 Pro Max, nhưng những cải tiến tinh tế đã nâng tầm sản phẩm này lên một đẳng cấp mới. Khung viền titanium cứng cáp kết hợp với mặt lưng kính cường lực nhám tạo nên sự hòa quyện giữa sự sang trọng và độ bền vượt trội. Vật liệu titanium không chỉ giúp máy nhẹ hơn mà còn tăng độ bền, chống trầy xước và bám vân tay tốt hơn, mang lại cảm giác cầm nắm thoải mái và tinh tế.",
+      "category": "thoitrangnu",
+      "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-16-pro-max.png",
+      "rating": {}
     },
     {
       "id": 11,
-      "title": "Điện Thoại Nokia 101,Nokia 100, Nokia 105 Zin Chính Hãng, Được Chọn Kèm Phụ Kiện",
-      "price": 160000,
-      "description": "Lưu ý: Sản phẩm là các dòng máy cũ chính hãng của Nokia được thay vỏ mới,pin sạc mới và bảo hành đầy đủ 12 tháng, quý khách mua sp rồi lưu ý xem video giúp shop ạ!\n- Nokia 100 hỗ trợ 1 sim- sạc chân kim\n- Nokia 101 hỗ trợ 2 sim và hỗ trợ lắp thẻ nhớ nghe nhạc, sạc chân kim\n- Nokia 105 hỗ trợ 2 sim, sạc chân dẹt micro\nTiếp nối truyền thống “máy bền, pin trâu” của những mẫu điện thoại “trứ danh” như Nokia 1200, Nokia 1280,…Hãng điện thoại đến từ Phần Lan tiếp tục tung ra mẫu điện thoại Nokia 100,101,105 vẫn “bền” và “trâu” nhưng được cải tiến nhiều hơn.\n\nĐiện thoại Nokia 100,101,105 giá rẻ vẫn được trang bị bàn phím T9 truyền thống. Ưu điểm rõ ràng của kiểu bàn phím này là dễ sử dụng, tốc độ bấm phím nhanh. Đặc biệt, các phím bấm trên máy được làm bằng vật liệu cao su mềm, không gây đau tay khi sử dụng trong thời gian dài. Điện thoại Nokia 100 được tích hợp sẵn 20 giao diện người dùng có thể thay đổi tùy ý theo sở thích  và cá tính của mình\n Điện thoại Nokia chính hãng giá rẻ thiết kế bền, đẹp, gọn nhẹ phù hợp với mọi lứa tuổi",
-      "category": "dienthoai",
-      "image": "https://cf.shopee.vn/file/3a7fe3513b59468fc5d386cc9700ab1b",
-      "rating": {
-        "rate": null,
-        "count": null
-      }
+      "title": "IPhone 16 Plus 512GB",
+      "price": "24.670000",
+      "description": "Dành cho những người yêu cái đẹp và đam mê công nghệ\niPhone 16 Plus 512GB tiếp tục duy trì thiết kế vuông vắn đặc trưng của dòng sản phẩm, nhưng với những cải tiến tinh tế, từ khung nhôm chắc chắn đến mặt lưng kính cường lực cao cấp. Điểm nổi bật là lớp kính Ceramic Shield được làm chắc chắn hơn với khả năng chịu lực tăng 50% so với các thế hệ trước. Tính năng này không chỉ giúp giảm thiểu trầy xước và va đập mà còn nâng cao độ nhạy khi thao tác, mang đến trải nghiệm sử dụng mượt mà và chính xác hơn.\n\n",
+      "category": "thoitrangnu",
+      "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-16-1.png",
+      "rating": {}
     },
     {
       "id": 12,
-      "title": "Combo tai nghe bluetooth không dây tws v5.0 nút cảm ứng âm thanh HIFI có mic đàm thoại kèm vỏ bảo vệ bao đựng case",
-      "price": 99000,
-      "description": "Tai nghe bluetooth không dây nhét tai cảm ứng âm thanh HIFI có vỏ bảo vệ bao đựng case combo\n\n  Phong cách đeo: đeo nhét tai\n  Mức độ chống thấm nước: tiêu chuẩn x1\n  Loại tai nghe: tai nghe bluetooth không dây\n  Chức năng giảm tiếng ồn: giảm tiếng ồn thụ động (giảm tiếng ồn vật lý)\n  Thời lượng pin: 3 giờ - 4 giờ \n  Khoảng cách hoạt động: 8m -10m (không vật cản)\n  Chức năng Bluetooth: Bluetooth 5.0\n  \n  Tai nghe cần được sạc để kích hoạt pin trước lần sử dụng đầu tiên. Sản phẩm này tương thích với hầu hết các loại cáp sạc trên thị trường. Nếu không sạc được, vui lòng thay cáp sạc và thử lại",
-      "category": "thietbidientu",
-      "image": "https://cf.shopee.vn/file/sg-11134201-22100-1ken2now57iv3f",
-      "rating": {
-        "rate": null,
-        "count": null
-      }
+      "title": "IPhone 16 Plus 128GB",
+      "price": "25.490000",
+      "description": "iPhone 16 Plus thu hút được sự chú ý của người dùng nhờ thiết kế hiện đại, sang trọng. Cùng với đó là cấu hình vượt trội từ con chip A18 cực kỳ mạnh mẽ. Chiếc điện thoại iPhone 16 bản Plus này sở hữu màn hình Super Retina XDR 6.7 inch hiện đại kết hợp cùng vỏ nhôm chuẩn hàng không vũ trụ tạo nên thiết kế nổi bật. Cụm camera kép cảm biến chất lượng với camera Fusion độ phân giải 48MP, camera Ultra Wide 12MP đem tới cho người dùng chất lượng sử dụng tốt hơn.",
+      "category": "thoitrangnu",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/329138/TimerThumb/iphone-16-plus-(2).jpg",
+      "rating": {}
     },
     {
       "id": 13,
-      "title": "Đồng hồ thông minh Định vị Q12( Đồng hồ thông minh trẻ em)lắp sim nghe gọi 2 chiều Chống nước tích hợp 3g",
-      "price": 199000,
-      "description": "✅Đặc điểm:\n 1. Chức năng: Hỗ trợ gọi thoại, vị trí và tuổi thọ pin lâu dài.\n 2. Thiết kế siêu mỏng 14.1mm\n Màu sắc của toàn bộ sản phẩm  uyệt đẹp và phong phú về kết cấu, \n 3. Thiết kế cẩn thận và tay nghề cao.\n Chuẩn bị cẩn thận từng thành phần để đảm bảo thiết bị hoạt động tốt.\n 4. Cuộc gọi hai chiều rõ ràng và ổn định\n Âm thanh to và có thể nghe được trong môi trường ồn ào.\n Thiết kế ăng ten độc đáo, nhiều hiệu chỉnh để đảm bảo cuộc gọi ổn định.\n 5. Trò chuyện bằng giọng nói, giúp giao tiếp thuận tiện hơn\n Hoạt động đơn giản và giao tiếp giọng nói dễ dàng.\n Trò chuyện nhóm dễ dàng, hỗ trợ trò chuyện nhóm với nhiều điện thoại di động\n 6. Định vị chính xác, xem thời gian thực\n Ghi lại chính xác mọi di chuyểncủa trẻ, đáp ứng đầy đủ nhu cầu định vị hàng ngày và cấp cứu.\n 7. Hỗ trợ hàng rào điện tử để luôn bảo vệ sự an toàn của trẻ em.\n Đặt phạm vi hoạt động của trẻ, điện thoại của cha mẹ sẽ nhận được cảnh báo khi trẻ rời khỏi khu vực đã cài đặt trước.\n Ngăn trẻ đi lạc, bắt cóc, khu vực nguy hiểm.\n 8. Tiêu chuẩn IPX4 không thấm nước, không phải lo lắng\n Sử dụng các thành phần chống thấm có độ chính xác cao, bơi và tắm không sợ hỏng, khô như bình thường.\n 9. Pin hiệu suất cao, thời gian chờ lâu.\n Với pin tùy chỉnh polyme, tốc độ sạc nhanh hơn, hiệu suất cao hơn, thời gian dài hơn so với các sản phẩm có cùng một công suất, không cần phải sạc hàng ngày.\n 10. Có trò chơi vui nhộn: Hãy để trẻ em có được hạnh phúc khi giải trí.\n 11. Phần thưởng tình yêu: Khi trẻ hoạt động tốt, việc gửi phần thưởng hình trái tim cho đồng hồ trên điện thoại di động tạo sự khích lệ, giúp trẻ vui vẻ và năng động hơn.",
-      "category": "thietbidientu",
-      "image": "https://cf.shopee.vn/file/sg-11134201-22110-avz9a7jn78jv5b",
-      "rating": {
-        "rate": null,
-        "count": null
-      }
+      "title": "IPhone 15 Pro 256GB",
+      "price": "24.670000",
+      "description": "iPhone 15 Pro 256GB là sự kết hợp hoàn hảo giữa thiết kế đẹp mắt, hiệu năng mạnh mẽ và camera hàng đầu. iPhone 15 Pro mang lại cho người dùng sự sang trọng từ thiết kế màu sắc. Nếu bạn là người yêu công nghệ và đam mê chụp ảnh, chiếc điện thoại này chắc chắn sẽ là một lựa chọn tuyệt vời.",
+      "category": "thoitrangnu",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/303831/TimerThumb/iphone-15-pro-256gb-(22).jpg",
+      "rating": {}
     },
     {
       "id": 14,
-      "title": "Bộ vệ sinh laptop, Macbook, điện thoại, máy tính cao cấp bộ dụng cụ vệ sinh lens máy ảnh máy quay DSLR FUKI BVSMA",
-      "price": 129000,
-      "description": "📌 THÔNG TIN SẢN PHẨM\nBộ vệ sinh Lens ống kính Máy Ảnh gồm:\n- 1 Hộp đựng dụng cụ\n- 2 Cọ lau bụi với đầu lông chải rất mịn và mềm\n- 1 Bóng thổi bụi\n- 1 lọ đựng dung dịch vệ sinh \n- 1 Khăn mềm lau chuyên dụng, khăn lau với về mặt mềm và mịn không đổ lông giúp vệ sinh tốt thân máy\n- 1 tập giấy lau ống kính với sớ giấy cực mịn không rơi bụi giấy, lau sạch vết bẩn và bảo đảm an\n- 1 bút lau lens\n- 5 giấy lau ống kính ướt và khô\n- 5 bông tăm 2 đầu",
-      "category": "mayanh",
-      "image": "https://cf.shopee.vn/file/2405a4f3165eb4ad8642206c7ee7f4c0",
-      "rating": {
-        "rate": null,
-        "count": null
-      }
+      "title": "Điện thoại IPhone 15 Pro 256GB",
+      "price": "24.670000",
+      "description": "iPhone 15 Pro 256GB là sự kết hợp hoàn hảo giữa thiết kế đẹp mắt, hiệu năng mạnh mẽ và camera hàng đầu. iPhone 15 Pro mang lại cho người dùng sự sang trọng từ thiết kế màu sắc. Nếu bạn là người yêu công nghệ và đam mê chụp ảnh, chiếc điện thoại này chắc chắn sẽ là một lựa chọn tuyệt vời.",
+      "category": "thoitrangnu",
+      "image": "https://store.sony.com.vn/cdn/shop/files/pdx245_mmWave_group_platinum-Large_1_medium.jpg?v=1728878527",
+      "rating": {}
     },
     {
       "id": 15,
-      "title": "Camera ip wifi ezviz C6N 4M ( 2K ) 1080P 2M - Hàng chính hãng bảo hành 2 năm- tặng phích âm và lạt nhựa khi mua kèm thẻ",
-      "price": 960000,
-      "description": "Camera ip wifi ezviz c6n 4M ( 2K ) 1080P 2M - Hàng chính hãng bảo hành 2 năm\n\nQuý khách có thể lựa chon 2 thuộc tính camera EZVIZ C6N Độ phân giải 2M 1080p hoặc Độ Phân giải 4M (2K)\n\nLưu ý :Quà tặng : Tặng phích âm và lạt 10 sợi lạt nhựa dài 10cm khi mua kèm thẻ",
-      "category": "mayanh",
-      "image": "https://cf.shopee.vn/file/3b36e917475336f008a9c1efd0260ce3",
-      "rating": {
-        "rate": null,
-        "count": null
-      }
+      "title": "Sony Xperia 10VI 8GB 128GB",
+      "price": "9.490000",
+      "description": "Sony Xperia 10 VI trang bị card đồ họa GPU Adreno kết hợp chipset cao cấp Snapdragon 6 Gen 1 giúp đem lại hiệu suất mạnh mẽ khi sử dụng. Dung lượng lưu trữ 8GB RAM + 128GB ROM cho phép tải nhiều ứng dụng hay hình ảnh về máy. Camera sau lên đến 48 MP và camera trước 8 MP hỗ trợ khả năng chụp ảnh rõ ràng và ấn tượng hơn. Điện thoại Sony Xperia 10 VI được trang bị dung lượng pin 5000 mAh, giúp thực hiện các hoạt động khác nhau mà không lo nhanh hết pin. ",
+      "category": "dienthoai",
+      "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/i/dien-thoai-sony-xperia-10-vi_1_.png",
+      "rating": {}
     },
     {
       "id": 16,
-      "title": "Đồng Hồ Điện Tử Dây Silicone Thể Thao Cho Học Sinh",
-      "price": 25000,
-      "description": "Người bán lại & Dropship Chào mừng\n\nChào mừng đến với LWCC Store\n\nNhà cung cấp trực tiếp nhất, giao hàng WSe giá rẻ và nhanh chóng.\n\n\nShop chúng tôi đảm bảo rằng các mặt hàng sẽ đến đặt hàng, \n\nNó có thể đảm bảo an toàn và không bị hư hại trong quá trình vận chuyển bằng cách bọc màng bong bóng khí.\n\n\n【Kích Thước THÔNG TIN】:\n\nĐường kính quay số: 37mm\n\nĐộ dày: 11mm\n\nLoại vương miện: Vương miện hình nón đỉnh phẳng\n\nLoại đáy bảng: bình thường\n\nSpecular Shading: Gương nhựa\n\nKiểu nút: Khóa ghim\n\nChất liệu khóa: Thép không gỉ\n\nChất liệu ban nhạc: Silica gel\n\nHình dạng quay số: hình vuông\n\nChất liệu vỏ: Xi măng nhựa",
-      "category": "dongho",
-      "image": "https://cf.shopee.vn/file/9af7139ee853836a0c237cab2de05b89",
-      "rating": {
-        "rate": null,
-        "count": null
-      }
+      "title": "Sony Xperia 1VI 12GB 256GB",
+      "price": "28.8900000",
+      "description": "Sony Xperia 1 VI 12GB 256GB là flagship mới của nhà Sony với chipset Snapdragon 8 Gen 3 tiến trình 4nm, bộ nhớ RAM 12GB và dung lượng lưu trữ 256GB. Màn hình 6.5 inch chất lượng FHD+, tần số quét 120Hz cùng tấm nền OLED chất lượng. Camera chính 48MP với cảm biến Exmor T cùng camera selfie 12mP. Pin lớn tới 5000mAh và 30W công nghệ sạc nhanh Qi cho trải nghiệm thú vị. ",
+      "category": "dienthoai",
+      "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/1/0/10_1_.png",
+      "rating": {}
+    },
+    {
+      "id": 17,
+      "title": "HONOR Magic V3 5G 12GB/512GB",
+      "price": "39.990000",
+      "description": "Trong những mẫu điện thoại gập mà mình từng được trên tay từ trước đến nay thì HONOR Magic V3 đang là sản phẩm khiến mình ấn tượng nhất ở cả thiết kế bên ngoài đến cấu hình bên trong. Mình cũng đã có dịp được cầm trên tay HONOR Magic V3 tại Việt Nam và sau đây là những cảm nhận ban đầu của mình về sản phẩm này.",
+      "category": "mayanh",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/332255/honor-magic-v3-green-thumb-600x600.jpg",
+      "rating": {}
+    },
+    {
+      "id": 18,
+      "title": "HONOR 200 5G 12GB/256GB",
+      "price": "11.990000",
+      "description": "Honor 200 12GB/256GB là một trong những mẫu điện thoại mới nhất của nhà sản xuất Trung Quốc vừa ra mắt trong tháng 5 năm nay. Đây là mẫu điện thoại thông minh với thiết kế cao cấp tràn viền đẹp mắt cùng thông số ấn tượng. Màn hình OLED 6,7 inch có độ phân giải 1200 x 2664 pixels và tần số quét 120Hz. Nhà sản xuất đã trang bị cho máy chip Snapdragon 7 Gen 3, RAM 12GB, dung lượng lưu trữ 256GB chạy trên hệ điều hành Android 14 ổn định. Ngoài ra, máy còn có bộ 3 camera 50MP hỗ trợ chụp ảnh chuyên nghiệp. Điện thoại mới của Honor sẽ đáp ứng nhu cầu sử dụng cả ngày dài với viên pin 5200mAh và khả năng sạc nhanh 100W ấn tượng. ",
+      "category": "mayanh",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/329133/TimerThumb/honor-200-12gb-256gb-(2).jpg",
+      "rating": {}
     }
   ],
-  "checkout": [],
+  "checkout": [
+    {
+      "name": "Minh Nhựt",
+      "address": "123....",
+      "phone": "01235567456",
+      "note": "",
+      "items": [
+        {
+          "id": 1,
+          "title": "Samsung Galaxy S24 Ultra 5G 12GB/256GB",
+          "price": "29.990000",
+          "description": "- Samsung Galaxy S24 Ultra là dòng sản phẩm mới được nhà samsung ra mắt vào đầu năm 2024. Với rất nhiều tính năng vượt trội so với các thế hệ trước, hứa hẹn mang lại trải nghiệm hết sức tuyệt vời cho người sử dụng. samsung đã trang bị cho dòng sản phẩm này công nghệ Galaxy AI cùng thiết kế sang trọng với khung viền Titan đẳng cấp. ",
+          "category": "thoitrangnam",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/307174/TimerThumb/samsung-galaxy-s24-ultra-5g-(14).jpg",
+          "rating": {},
+          "quantity": 1,
+          "itemTotal": 29.99
+        },
+        {
+          "id": 2,
+          "title": "Samsung Galaxy Z Flip6 5G 12GB/256GB",
+          "price": "24.990000",
+          "description": "Samsung Galaxy Z Flip6 là dòng điện thoại thế hệ Galaxy Z Flip tiếp theo được Samsung công bố ra thị trường với nhiều tính năng và cập nhật lớn. Phiên bản này sẽ có màn hình phụ 3.4 inch, pin 4000mAh và camera chính 50MP. Galaxy Z Flip6 còn được trang bị bộ vi xử lý lớn hơn với chip Snapdragon 8 Gen 3 dành cho Galaxy cực mạnh. Kèm với đó, chiếc điện thoại Samsung này sẽ có bộ nhớ lên tới 12GB RAM và được trang bị Galaxy AI.",
+          "category": "thoitrangnam",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/320722/TimerThumb/samsung-galaxy-z-flip6-(2).jpg",
+          "rating": {},
+          "quantity": 1,
+          "itemTotal": 24.99
+        },
+        {
+          "id": 3,
+          "title": "Samsung Galaxy S23 Ultra 5G 8GB/256GB",
+          "price": "20.190000",
+          "description": "Samsung Galaxy S23 Ultra sở hữu màn hình 6.8 inch Dynamic AMOLED 2X với độ phân giải QHD+, mang đến trải nghiệm hình ảnh siêu sống động và sắc nét. Camera chính trên máy sở hữu độ rõ nét đạt tới 200MP với công nghệ ổn định hình ảnh quang học, giúp chụp ảnh chất lượng cao trong nhiều điều kiện ánh sáng. Kèm theo đó là chip Snapdragon 8 Gen 2 4nm mạnh mẽ, kết hợp RAM 8GB, đảm bảo hiệu suất mượt mà và khả năng xử lý tác vụ nhanh chóng.",
+          "category": "thoitrangnam",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/249948/TimerThumb/samsung-galaxy-s23-ultra-(16).jpg",
+          "rating": {},
+          "quantity": 1,
+          "itemTotal": 20.19
+        },
+        {
+          "id": 4,
+          "title": "Samsung Galaxy A16 8GB/128GB",
+          "price": "5.690000",
+          "description": "Samsung mới đây vừa trình làng bộ đôi smartphone tầm trung hoàn toàn mới - Galaxy A16 và Galaxy A16 5G. Cả hai thiết bị này đều được trang bị hàng loạt tính năng xịn sò, cùng với đó là thiết kế cực kỳ sang trọng và tinh tế.",
+          "category": "thoitrangnam",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/331207/TimerThumb/samsung-galaxy-a16-8gb-128gb-(2).jpg",
+          "rating": {},
+          "quantity": 1,
+          "itemTotal": 5.69
+        },
+        {
+          "id": 5,
+          "title": "Samsung Galaxy A06 4GB/64GB",
+          "price": "3.090000",
+          "description": "Samsung Galaxy A06 mang đến sự kết hợp hoàn hảo giữa thiết kế tinh tế, hiệu năng mạnh mẽ và bảo mật cao cấp. Với màn hình 6.7 inch, camera 50 MP, pin bền bỉ cùng nhiều cải tiến vượt trội, Galaxy A06 là lựa chọn lý tưởng cho mọi nhu cầu sử dụng hằng ngày.",
+          "category": "thoitrangnam",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/328752/TimerThumb/samsung-galaxy-a06-4gb-64gb-(2).jpg",
+          "rating": {},
+          "quantity": 1,
+          "itemTotal": 3.09
+        },
+        {
+          "id": 11,
+          "title": "IPhone 16 Plus 512GB",
+          "price": "24.670000",
+          "description": "Dành cho những người yêu cái đẹp và đam mê công nghệ\niPhone 16 Plus 512GB tiếp tục duy trì thiết kế vuông vắn đặc trưng của dòng sản phẩm, nhưng với những cải tiến tinh tế, từ khung nhôm chắc chắn đến mặt lưng kính cường lực cao cấp. Điểm nổi bật là lớp kính Ceramic Shield được làm chắc chắn hơn với khả năng chịu lực tăng 50% so với các thế hệ trước. Tính năng này không chỉ giúp giảm thiểu trầy xước và va đập mà còn nâng cao độ nhạy khi thao tác, mang đến trải nghiệm sử dụng mượt mà và chính xác hơn.\n\n",
+          "category": "thoitrangnu",
+          "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-16-1.png",
+          "rating": {},
+          "quantity": 1,
+          "itemTotal": 24.67
+        },
+        {
+          "id": 10,
+          "title": "IPhone 16 Pro Max 256GB",
+          "price": "34.450000",
+          "description": "Thiết kế đẳng cấp, hoàn hảo từ mọi góc nhìn\nNếu như nhìn thoáng qua, iPhone 16 Pro Max không có quá nhiều thay đổi so với phiên bản tiền nhiệm, iPhone 15 Pro Max, nhưng những cải tiến tinh tế đã nâng tầm sản phẩm này lên một đẳng cấp mới. Khung viền titanium cứng cáp kết hợp với mặt lưng kính cường lực nhám tạo nên sự hòa quyện giữa sự sang trọng và độ bền vượt trội. Vật liệu titanium không chỉ giúp máy nhẹ hơn mà còn tăng độ bền, chống trầy xước và bám vân tay tốt hơn, mang lại cảm giác cầm nắm thoải mái và tinh tế.",
+          "category": "thoitrangnu",
+          "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-16-pro-max.png",
+          "rating": {},
+          "quantity": 1,
+          "itemTotal": 34.45
+        },
+        {
+          "id": 8,
+          "title": "Samsung Galaxy A55 5G 12GB/256GB",
+          "price": "11.490000",
+          "description": "Samsung Galaxy A55 là thành viên mới nhất trong dòng sản phẩm A series, hứa hẹn mang đến nhiều tính năng tiên tiến cùng với kết nối 5G tốc độ cao. Sản phẩm được trình làng với mục tiêu cung cấp một chiếc điện thoại thông minh cao cấp, đa chức năng nhưng với mức giá phải chăng.",
+          "category": "thoitrangnam",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/322096/TimerThumb/samsung-galaxy-a55-5g-(4).jpg",
+          "rating": {},
+          "quantity": 1,
+          "itemTotal": 11.49
+        },
+        {
+          "id": 7,
+          "title": "Samsung Galaxy M55 5G 8GB/256GB",
+          "price": "9.390000",
+          "description": "Samsung Galaxy M55 gây ấn tượng với thiết kế trẻ trung với 2 màu sắc thời thượng là Xanh Lá và Đen. Model này được hoàn thiện bằng bộ khung nguyên khối và mặt lưng làm bằng chất liệu nhựa polycarbonate. Ngoài ra, Samsung Galaxy M55 5G còn có khả năng kháng bụi, kháng nước chuẩn IP67.",
+          "category": "thoitrangnam",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/321891/TimerThumb/samsung-galaxy-m55-(2).jpg",
+          "rating": {},
+          "quantity": 1,
+          "itemTotal": 9.39
+        },
+        {
+          "id": 13,
+          "title": "Điện thoại IPhone 15 Pro 256GB",
+          "price": "24.670000",
+          "description": "iPhone 15 Pro 256GB là sự kết hợp hoàn hảo giữa thiết kế đẹp mắt, hiệu năng mạnh mẽ và camera hàng đầu. iPhone 15 Pro mang lại cho người dùng sự sang trọng từ thiết kế màu sắc. Nếu bạn là người yêu công nghệ và đam mê chụp ảnh, chiếc điện thoại này chắc chắn sẽ là một lựa chọn tuyệt vời.",
+          "category": "thoitrangnu",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/303831/TimerThumb/iphone-15-pro-256gb-(22).jpg",
+          "rating": {},
+          "quantity": 1,
+          "itemTotal": 24.67
+        },
+        {
+          "id": 14,
+          "title": "Điện thoại IPhone 15 Pro 256GB",
+          "price": "24.670000",
+          "description": "iPhone 15 Pro 256GB là sự kết hợp hoàn hảo giữa thiết kế đẹp mắt, hiệu năng mạnh mẽ và camera hàng đầu. iPhone 15 Pro mang lại cho người dùng sự sang trọng từ thiết kế màu sắc. Nếu bạn là người yêu công nghệ và đam mê chụp ảnh, chiếc điện thoại này chắc chắn sẽ là một lựa chọn tuyệt vời.",
+          "category": "thoitrangnu",
+          "image": "https://store.sony.com.vn/cdn/shop/files/pdx245_mmWave_group_platinum-Large_1_medium.jpg?v=1728878527",
+          "rating": {},
+          "quantity": 2,
+          "itemTotal": 49.34
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Minh Nhựt",
+      "address": "123....",
+      "phone": "01235567456",
+      "note": "",
+      "items": [
+        {
+          "id": 2,
+          "title": "Samsung Galaxy Z Flip6 5G 12GB/256GB",
+          "price": "24.990000",
+          "description": "Samsung Galaxy Z Flip6 là dòng điện thoại thế hệ Galaxy Z Flip tiếp theo được Samsung công bố ra thị trường với nhiều tính năng và cập nhật lớn. Phiên bản này sẽ có màn hình phụ 3.4 inch, pin 4000mAh và camera chính 50MP. Galaxy Z Flip6 còn được trang bị bộ vi xử lý lớn hơn với chip Snapdragon 8 Gen 3 dành cho Galaxy cực mạnh. Kèm với đó, chiếc điện thoại Samsung này sẽ có bộ nhớ lên tới 12GB RAM và được trang bị Galaxy AI.",
+          "category": "thoitrangnam",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/320722/TimerThumb/samsung-galaxy-z-flip6-(2).jpg",
+          "rating": {},
+          "quantity": 4,
+          "itemTotal": 99.96
+        },
+        {
+          "id": 4,
+          "title": "Samsung Galaxy A16 8GB/128GB",
+          "price": "5.690000",
+          "description": "Samsung mới đây vừa trình làng bộ đôi smartphone tầm trung hoàn toàn mới - Galaxy A16 và Galaxy A16 5G. Cả hai thiết bị này đều được trang bị hàng loạt tính năng xịn sò, cùng với đó là thiết kế cực kỳ sang trọng và tinh tế.",
+          "category": "thoitrangnam",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/331207/TimerThumb/samsung-galaxy-a16-8gb-128gb-(2).jpg",
+          "rating": {},
+          "quantity": 4,
+          "itemTotal": 22.76
+        },
+        {
+          "id": 14,
+          "title": "Điện thoại IPhone 15 Pro 256GB",
+          "price": "24.670000",
+          "description": "iPhone 15 Pro 256GB là sự kết hợp hoàn hảo giữa thiết kế đẹp mắt, hiệu năng mạnh mẽ và camera hàng đầu. iPhone 15 Pro mang lại cho người dùng sự sang trọng từ thiết kế màu sắc. Nếu bạn là người yêu công nghệ và đam mê chụp ảnh, chiếc điện thoại này chắc chắn sẽ là một lựa chọn tuyệt vời.",
+          "category": "thoitrangnu",
+          "image": "https://store.sony.com.vn/cdn/shop/files/pdx245_mmWave_group_platinum-Large_1_medium.jpg?v=1728878527",
+          "rating": {},
+          "quantity": 1,
+          "itemTotal": 24.67
+        },
+        {
+          "id": 13,
+          "title": "Điện thoại IPhone 15 Pro 256GB",
+          "price": "24.670000",
+          "description": "iPhone 15 Pro 256GB là sự kết hợp hoàn hảo giữa thiết kế đẹp mắt, hiệu năng mạnh mẽ và camera hàng đầu. iPhone 15 Pro mang lại cho người dùng sự sang trọng từ thiết kế màu sắc. Nếu bạn là người yêu công nghệ và đam mê chụp ảnh, chiếc điện thoại này chắc chắn sẽ là một lựa chọn tuyệt vời.",
+          "category": "thoitrangnu",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/303831/TimerThumb/iphone-15-pro-256gb-(22).jpg",
+          "rating": {},
+          "quantity": 1,
+          "itemTotal": 24.67
+        },
+        {
+          "id": 9,
+          "title": "IPhone 16 Pro Max 256GB",
+          "price": "34.090000",
+          "description": "iPhone 16 Pro Max có tính năng và thiết kế ấn tượng, cùng cấu hình tối ưu. Với những đổi mới từ phía nhà sản xuất, kết hợp công nghệ hiện đại, điện thoại là mẫu flagship đáng trải nghiệm.",
+          "category": "thoitrangnu",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/329149/TimerThumb/iphone-16-pro-max-(2).jpg",
+          "rating": {},
+          "quantity": 1,
+          "itemTotal": 34.09
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "",
+      "address": "",
+      "phone": "",
+      "note": "",
+      "items": [
+        {
+          "id": 1,
+          "title": "Samsung Galaxy S24 Ultra 5G 12GB/256GB",
+          "price": "29.990000",
+          "description": "- Samsung Galaxy S24 Ultra là dòng sản phẩm mới được nhà samsung ra mắt vào đầu năm 2024. Với rất nhiều tính năng vượt trội so với các thế hệ trước, hứa hẹn mang lại trải nghiệm hết sức tuyệt vời cho người sử dụng. samsung đã trang bị cho dòng sản phẩm này công nghệ Galaxy AI cùng thiết kế sang trọng với khung viền Titan đẳng cấp. ",
+          "category": "thoitrangnam",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/307174/TimerThumb/samsung-galaxy-s24-ultra-5g-(14).jpg",
+          "rating": {},
+          "quantity": 2,
+          "itemTotal": 59.98
+        },
+        {
+          "id": 2,
+          "title": "Samsung Galaxy Z Flip6 5G 12GB/256GB",
+          "price": "24.990000",
+          "description": "Samsung Galaxy Z Flip6 là dòng điện thoại thế hệ Galaxy Z Flip tiếp theo được Samsung công bố ra thị trường với nhiều tính năng và cập nhật lớn. Phiên bản này sẽ có màn hình phụ 3.4 inch, pin 4000mAh và camera chính 50MP. Galaxy Z Flip6 còn được trang bị bộ vi xử lý lớn hơn với chip Snapdragon 8 Gen 3 dành cho Galaxy cực mạnh. Kèm với đó, chiếc điện thoại Samsung này sẽ có bộ nhớ lên tới 12GB RAM và được trang bị Galaxy AI.",
+          "category": "thoitrangnam",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/320722/TimerThumb/samsung-galaxy-z-flip6-(2).jpg",
+          "rating": {},
+          "quantity": 2,
+          "itemTotal": 49.98
+        },
+        {
+          "id": 3,
+          "title": "Samsung Galaxy S23 Ultra 5G 8GB/256GB",
+          "price": "20.190000",
+          "description": "Samsung Galaxy S23 Ultra sở hữu màn hình 6.8 inch Dynamic AMOLED 2X với độ phân giải QHD+, mang đến trải nghiệm hình ảnh siêu sống động và sắc nét. Camera chính trên máy sở hữu độ rõ nét đạt tới 200MP với công nghệ ổn định hình ảnh quang học, giúp chụp ảnh chất lượng cao trong nhiều điều kiện ánh sáng. Kèm theo đó là chip Snapdragon 8 Gen 2 4nm mạnh mẽ, kết hợp RAM 8GB, đảm bảo hiệu suất mượt mà và khả năng xử lý tác vụ nhanh chóng.",
+          "category": "thoitrangnam",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/249948/TimerThumb/samsung-galaxy-s23-ultra-(16).jpg",
+          "rating": {},
+          "quantity": 2,
+          "itemTotal": 40.38
+        },
+        {
+          "id": 4,
+          "title": "Samsung Galaxy A16 8GB/128GB",
+          "price": "5.690000",
+          "description": "Samsung mới đây vừa trình làng bộ đôi smartphone tầm trung hoàn toàn mới - Galaxy A16 và Galaxy A16 5G. Cả hai thiết bị này đều được trang bị hàng loạt tính năng xịn sò, cùng với đó là thiết kế cực kỳ sang trọng và tinh tế.",
+          "category": "thoitrangnam",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/331207/TimerThumb/samsung-galaxy-a16-8gb-128gb-(2).jpg",
+          "rating": {},
+          "quantity": 2,
+          "itemTotal": 11.38
+        },
+        {
+          "id": 9,
+          "title": "IPhone 16 Pro Max 256GB",
+          "price": "34.090000",
+          "description": "iPhone 16 Pro Max có tính năng và thiết kế ấn tượng, cùng cấu hình tối ưu. Với những đổi mới từ phía nhà sản xuất, kết hợp công nghệ hiện đại, điện thoại là mẫu flagship đáng trải nghiệm.",
+          "category": "thoitrangnu",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/329149/TimerThumb/iphone-16-pro-max-(2).jpg",
+          "rating": {},
+          "quantity": 2,
+          "itemTotal": 68.18
+        },
+        {
+          "id": 8,
+          "title": "Samsung Galaxy A55 5G 12GB/256GB",
+          "price": "11.490000",
+          "description": "Samsung Galaxy A55 là thành viên mới nhất trong dòng sản phẩm A series, hứa hẹn mang đến nhiều tính năng tiên tiến cùng với kết nối 5G tốc độ cao. Sản phẩm được trình làng với mục tiêu cung cấp một chiếc điện thoại thông minh cao cấp, đa chức năng nhưng với mức giá phải chăng.",
+          "category": "thoitrangnam",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/322096/TimerThumb/samsung-galaxy-a55-5g-(4).jpg",
+          "rating": {},
+          "quantity": 9,
+          "itemTotal": 103.41
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "",
+      "address": "",
+      "phone": "",
+      "note": "",
+      "items": [
+        {
+          "id": 16,
+          "title": "Sony Xperia 1VI 12GB 256GB",
+          "price": "28.8900000",
+          "description": "Sony Xperia 1 VI 12GB 256GB là flagship mới của nhà Sony với chipset Snapdragon 8 Gen 3 tiến trình 4nm, bộ nhớ RAM 12GB và dung lượng lưu trữ 256GB. Màn hình 6.5 inch chất lượng FHD+, tần số quét 120Hz cùng tấm nền OLED chất lượng. Camera chính 48MP với cảm biến Exmor T cùng camera selfie 12mP. Pin lớn tới 5000mAh và 30W công nghệ sạc nhanh Qi cho trải nghiệm thú vị. ",
+          "category": "dienthoai",
+          "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/1/0/10_1_.png",
+          "rating": {},
+          "quantity": 5,
+          "itemTotal": 144.45
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "Minh Nhựt",
+      "address": "123....",
+      "phone": "01235567456",
+      "note": "",
+      "items": [
+        {
+          "id": 9,
+          "title": "IPhone 16 Pro Max 256GB",
+          "price": "34.090000",
+          "description": "iPhone 16 Pro Max có tính năng và thiết kế ấn tượng, cùng cấu hình tối ưu. Với những đổi mới từ phía nhà sản xuất, kết hợp công nghệ hiện đại, điện thoại là mẫu flagship đáng trải nghiệm.",
+          "category": "thoitrangnu",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/329149/TimerThumb/iphone-16-pro-max-(2).jpg",
+          "rating": {},
+          "quantity": 1,
+          "itemTotal": 34.09
+        },
+        {
+          "id": 10,
+          "title": "IPhone 16 Pro Max 256GB",
+          "price": "34.450000",
+          "description": "Thiết kế đẳng cấp, hoàn hảo từ mọi góc nhìn\nNếu như nhìn thoáng qua, iPhone 16 Pro Max không có quá nhiều thay đổi so với phiên bản tiền nhiệm, iPhone 15 Pro Max, nhưng những cải tiến tinh tế đã nâng tầm sản phẩm này lên một đẳng cấp mới. Khung viền titanium cứng cáp kết hợp với mặt lưng kính cường lực nhám tạo nên sự hòa quyện giữa sự sang trọng và độ bền vượt trội. Vật liệu titanium không chỉ giúp máy nhẹ hơn mà còn tăng độ bền, chống trầy xước và bám vân tay tốt hơn, mang lại cảm giác cầm nắm thoải mái và tinh tế.",
+          "category": "thoitrangnu",
+          "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-16-pro-max.png",
+          "rating": {},
+          "quantity": 1,
+          "itemTotal": 34.45
+        },
+        {
+          "id": 11,
+          "title": "IPhone 16 Plus 512GB",
+          "price": "24.670000",
+          "description": "Dành cho những người yêu cái đẹp và đam mê công nghệ\niPhone 16 Plus 512GB tiếp tục duy trì thiết kế vuông vắn đặc trưng của dòng sản phẩm, nhưng với những cải tiến tinh tế, từ khung nhôm chắc chắn đến mặt lưng kính cường lực cao cấp. Điểm nổi bật là lớp kính Ceramic Shield được làm chắc chắn hơn với khả năng chịu lực tăng 50% so với các thế hệ trước. Tính năng này không chỉ giúp giảm thiểu trầy xước và va đập mà còn nâng cao độ nhạy khi thao tác, mang đến trải nghiệm sử dụng mượt mà và chính xác hơn.\n\n",
+          "category": "thoitrangnu",
+          "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-16-1.png",
+          "rating": {},
+          "quantity": 1,
+          "itemTotal": 24.67
+        },
+        {
+          "id": 1,
+          "title": "Samsung Galaxy S25 Ultra 12GB 256GB",
+          "price": "26.380000",
+          "description": "- Samsung Galaxy S25 Ultra là dòng sản phẩm mới được nhà samsung ra mắt vào đầu năm 2025. Với rất nhiều tính năng vượt trội so với các thế hệ trước, hứa hẹn mang lại trải nghiệm hết sức tuyệt vời cho người sử dụng. samsung đã trang bị cho dòng sản phẩm này công nghệ Galaxy AI cùng thiết kế sang trọng với khung viền Titan đẳng cấp. ",
+          "category": "thoitrangnam",
+          "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s25-ultra_3__3.png",
+          "rating": {},
+          "quantity": 1,
+          "itemTotal": 26.38
+        },
+        {
+          "id": 2,
+          "title": "Samsung Galaxy Z Flip7 12GB 256GB",
+          "price": "26.990000",
+          "description": "Samsung Galaxy Z Flip7 là dòng điện thoại thế hệ Galaxy Z Flip tiếp theo được Samsung công bố ra thị trường với nhiều tính năng và cập nhật lớn. Phiên bản này sẽ có màn hình phụ 3.4 inch, pin 4000mAh và camera chính 50MP. Galaxy Z Flip6 còn được trang bị bộ vi xử lý lớn hơn với chip Snapdragon 8 Gen 3 dành cho Galaxy cực mạnh. Kèm với đó, chiếc điện thoại Samsung này sẽ có bộ nhớ lên tới 12GB RAM và được trang bị Galaxy AI.",
+          "category": "thoitrangnam",
+          "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-z-flip-7-xanh.jpg",
+          "rating": {},
+          "quantity": 1,
+          "itemTotal": 26.99
+        },
+        {
+          "id": 3,
+          "title": "Samsung Galaxy S23 Ultra 5G 8GB/256GB",
+          "price": "20.190000",
+          "description": "Samsung Galaxy S23 Ultra sở hữu màn hình 6.8 inch Dynamic AMOLED 2X với độ phân giải QHD+, mang đến trải nghiệm hình ảnh siêu sống động và sắc nét. Camera chính trên máy sở hữu độ rõ nét đạt tới 200MP với công nghệ ổn định hình ảnh quang học, giúp chụp ảnh chất lượng cao trong nhiều điều kiện ánh sáng. Kèm theo đó là chip Snapdragon 8 Gen 2 4nm mạnh mẽ, kết hợp RAM 8GB, đảm bảo hiệu suất mượt mà và khả năng xử lý tác vụ nhanh chóng.",
+          "category": "thoitrangnam",
+          "image": "https://cdn.tgdd.vn/Products/Images/42/249948/TimerThumb/samsung-galaxy-s23-ultra-(16).jpg",
+          "rating": {},
+          "quantity": 1,
+          "itemTotal": 20.19
+        }
+      ],
+      "id": 5
+    }
+  ],
   "QCimg": [
     {
       "id": 1,
-      "image": "\thttps://cf.shopee.vn/file/vn-50009109-1d5d38acf00c905da8896d36ed9dbb90_xxhdpi"
+      "image": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Banner/2d/e4/2de437fd99315745677162c3b042c441.jpg"
     },
     {
       "id": 2,
-      "image": "https://cf.shopee.vn/file/vn-50009109-bac7d4a310fe33c7847acd59cc00b091_xxhdpi"
+      "image": "https://img.pikbest.com/origin/10/01/53/35bpIkbEsTBzN.png!bwr800"
     },
     {
       "id": 4,
-      "image": "https://cf.shopee.vn/file/vn-50009109-cbd654412ec3da9fc9ddbeab18b04a91_xhdpi"
+      "image": "https://cdn.tgdd.vn/hoi-dap/1355217/banner-tgdd-800x300.jpg"
     },
     {
-      "id": "5",
-      "image": "https://cf.shopee.vn/file/vn-50009109-3c9141c836c9f26c72b400be53256985_xhdpi"
+      "id": 5,
+      "image": "https://cdn.hoanghamobile.com/i/home/Uploads/2024/12/06/galaxy-s24-series-1200x375.jpg"
     },
     {
-      "id": "3",
-      "image": "https://cf.shopee.vn/file/vn-50009109-bc7829ad669637a185f7393db36f28de_xxhdpi"
+      "id": 3,
+      "image": "https://www.duchuymobile.com/images/promo/34/s20-plus-pc-banner.jpg"
     }
   ]
 }

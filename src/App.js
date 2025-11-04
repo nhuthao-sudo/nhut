@@ -33,7 +33,7 @@ function App() {
         <Route path="/" element={<Layout />} />
         <Route path="/home" element={<Layout />} />
         <Route path="/admin" element={<Layouts />} />
-        <Route path="/dashboard" element={<Dashboard/>} />
+        <Route path="/dashboard" element={<Dashboard />} />
         <Route path="/login/admin" element={<LoginAdmin />} />
         <Route path="/signup" element={<Signup />} />
         <Route path="/login" element={<Login />} />
@@ -42,17 +42,17 @@ function App() {
         <Route path="/productAdminList" element={<ProductAdminList />} />
         <Route path="/productListCard" element={<ProductListCard />} />
         <Route path="/checkout" element={<CheckOurAdmin />} />
-        <Route path="/producTTN" element={<ProductTTN />} />
+        <Route path="/ti-vi" element={<ProductTTN />} />
         <Route path="/editqc" element={<EditQC_admin />} />
-        <Route path="/producTTnu" element={<Thoitrangnu />} />
-        <Route path="/dienthoai" element={<DienthoaiHome />} />
-        <Route path="/thietbidien" element={<Thietbidien />} />
-        <Route path="/mayanh" element={<Mayanh />} />
-        <Route path="/dongho" element={<Dongho />} />
-        <Route path="/giaydep" element={<Giaydep />} />
-        <Route path="/thethao" element={<Thethao />} />
-        <Route path="/thietbigiadung" element={<Thietbigiadung />} />
-        <Route path="/xemay" element={<Xemay />} />
+        <Route path="/dien-thoai" element={<Thoitrangnu />} />
+        <Route path="/bep-dien" element={<DienthoaiHome />} />
+        <Route path="/lo-vi-song" element={<Thietbidien />} />
+        <Route path="/say-toc" element={<Mayanh />} />
+        <Route path="/camera" element={<Dongho />} />
+        <Route path="/tu-lanh" element={<Giaydep />} />
+        <Route path="/vatdung" element={<Thethao />} />
+        <Route path="/may-lanh" element={<Thietbigiadung />} />
+        <Route path="/noi-com-dien" element={<Xemay />} />
       </Routes>
     </BrowserRouter>
   );
